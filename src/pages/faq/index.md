@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
 title: "Explosion Proof Air Conditioner FAQ | getExplosionProof"
-description: "Explosion-proof air conditioner FAQ — cost, classification, lead times, mini splits, pressurization, window units, and more. Independent specialist. (844) 925-5668."
+description: "Explosion-proof AC FAQ — cost, classification, lead times, mini splits, pressurization, and more. Independent specialist. (844) 925-5668."
 url: "/faq/"
 breadcrumb:
   - label: 'FAQ'

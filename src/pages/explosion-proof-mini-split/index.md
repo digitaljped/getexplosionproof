@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Explosion Proof Mini Split Air Conditioners | Affordable Hazardous Location Cooling"
-description: "Explosion-proof mini split air conditioners — the most affordable way to cool a classified space. Class 1 & Class 2 hazardous locations. Independent modifier. Call (844) 925-5668."
+title: "Explosion Proof Mini Split AC | Affordable Cooling"
+description: "Explosion-proof mini splits — the most affordable way to cool a classified space. Class 1 & 2 hazardous locations. (844) 925-5668."
 url: "/explosion-proof-mini-split/"
 breadcrumb:
   - label: 'Products'

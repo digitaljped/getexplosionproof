@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Class 2 Division 2 Explosion Proof Air Conditioners | Groups E, F, G"
-description: "Class 2 Division 2 explosion-proof air conditioners — combustible dust accumulation hazard. Still requires rated equipment. Groups E, F, G. Independent specialist. Call (844) 925-5668."
+title: "Class 2 Division 2 Explosion Proof AC | Groups E–G"
+description: "Class 2 Div 2 explosion-proof AC — dust accumulation hazard, still requires rated equipment. Groups E, F, G. (844) 925-5668."
 url: "/class-2-division-2/"
 breadcrumb:
   - label: 'Classification'

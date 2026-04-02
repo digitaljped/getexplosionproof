@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Purge and Pressurization for Explosion-Proof Buildings | getExplosionProof"
-description: "Purge and pressurization under NFPA 496 lets you use standard HVAC inside classified-area buildings. 20–25% of customers choose this route because it saves more than it costs. Independent specialist. (844) 925-5668."
+title: "Purge & Pressurization for Explosion Proof Buildings"
+description: "NFPA 496 purge and pressurization lets you use standard HVAC inside classified buildings. Saves more than it costs. (844) 925-5668."
 url: "/pressurization-explosion-proof-buildings/"
 breadcrumb:
   - label: 'Products'

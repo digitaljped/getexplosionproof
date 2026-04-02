@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Explosion Proof Air Conditioners for Oil & Gas | Refineries, Pipelines, Gas Processing"
-description: "Explosion-proof air conditioners for oil & gas — refineries, pipelines, gas processing. Class 1 Div 2 Groups C&D. Independent specialist with installations at every major US refinery. (844) 925-5668."
+title: "Explosion Proof AC for Oil & Gas | Refineries"
+description: "Explosion-proof AC for oil & gas — refineries, pipelines, gas processing. C1D2 Groups C&D. At every major US refinery. (844) 925-5668."
 url: "/oil-gas/"
 breadcrumb:
   - label: 'Industries'

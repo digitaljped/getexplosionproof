@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "NEC Article 500 vs. NEC Article 505 | Class/Division vs. Zone Classification"
-description: "NEC Article 500 vs 505 — Class/Division vs Zone hazardous location classification explained. ATEX equivalencies. Independent specialist. Call (844) 925-5668."
+title: "NEC 500 vs 505 | Division vs Zone Classification"
+description: "NEC 500 vs 505 — Class/Division vs Zone hazardous location classification explained. ATEX equivalencies. (844) 925-5668."
 url: "/nec-500-vs-505/"
 breadcrumb:
   - label: 'Education'

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Custom Explosion Proof Air Conditioners | Non-Standard & Specialty Builds"
-description: "Custom explosion-proof air conditioner modifications for non-standard installations — redundant N+1 systems, stainless steel, blast-resistant modules, unusual mounting. Independent specialist. (844) 925-5668."
+title: "Custom Explosion Proof AC | Specialty Builds"
+description: "Custom explosion-proof AC for non-standard installs — N+1 systems, stainless steel, blast-resistant. Independent specialist. (844) 925-5668."
 url: "/custom-air-conditioner/"
 breadcrumb:
   - label: 'Products'

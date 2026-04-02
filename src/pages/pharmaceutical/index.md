@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Explosion Proof Air Conditioners for Pharmaceutical Manufacturing"
-description: "Explosion-proof air conditioners for pharmaceutical manufacturing — API dust (Class 2) and solvent handling (Class 1). Stainless steel and GMP-compatible options. Independent specialist. (844) 925-5668."
+title: "Explosion Proof AC for Pharma Manufacturing"
+description: "Explosion-proof AC for pharma — API dust (Class 2), solvent handling (Class 1). Stainless and GMP options. (844) 925-5668."
 url: "/pharmaceutical/"
 breadcrumb:
   - label: 'Industries'

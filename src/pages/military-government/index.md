@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Explosion Proof Air Conditioners for Military & Government | DOD, DOE, Federal"
-description: "Explosion-proof air conditioners for military and government facilities — DOD, DOE, ammunition storage, fuel handling. Full documentation and Buy American compliance. Independent specialist. (844) 925-5668."
+title: "Explosion Proof AC for Military & Government | DOD"
+description: "Explosion-proof AC for military & government — DOD, DOE, ammo storage, fuel handling. Buy American compliance. (844) 925-5668."
 url: "/military-government/"
 breadcrumb:
   - label: 'Industries'

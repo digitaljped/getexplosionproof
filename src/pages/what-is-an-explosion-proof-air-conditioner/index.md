@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "What Is an Explosion Proof Air Conditioner? | Complete Guide (2026)"
-description: "An explosion-proof air conditioner is a standard AC unit modified so it cannot ignite flammable gases, vapors, or dust. Classifications, pricing, selection guide, and real installations explained."
+title: "What Is an Explosion Proof Air Conditioner? (2026)"
+description: "An explosion-proof AC is a standard unit modified so it can't ignite flammable gases or dust. Classifications, pricing, and selection guide."
 url: "/what-is-an-explosion-proof-air-conditioner/"
 breadcrumb:
   - label: 'Guide'
@@ -14,7 +14,7 @@ schema:
   "author":
     "@type": "Organization"
     "name": "getExplosionProof by Super Cool"
-    "url": "https://www.getexplosionproof.com"
+    "url": "https://getexplosionproof.com"
   "publisher":
     "@type": "Organization"
     "name": "getExplosionProof by Super Cool"

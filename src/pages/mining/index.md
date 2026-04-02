@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Explosion Proof Air Conditioners for Mining | Underground & Surface Operations"
-description: "Explosion-proof air conditioners for mining — coal mines, metal/nonmetal, oil sands. Class 1 and Class 2 hazardous locations. Independent specialist. (844) 925-5668."
+title: "Explosion Proof AC for Mining | Underground & Surface"
+description: "Explosion-proof AC for mining — coal, metal/nonmetal, oil sands. Class 1 & 2 hazardous locations. Independent specialist. (844) 925-5668."
 url: "/mining/"
 breadcrumb:
   - label: 'Industries'

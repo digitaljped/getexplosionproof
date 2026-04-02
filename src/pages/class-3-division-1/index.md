@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Class 3 Division 1 Explosion Proof Air Conditioners | Ignitable Fibers & Flyings"
-description: "Class 3 Division 1 explosion-proof air conditioners for ignitable fibers and flyings — textile mills, woodworking, cotton processing. Independent specialist. Call (844) 925-5668."
+title: "Class 3 Division 1 Explosion Proof AC | Fibers"
+description: "Class 3 Div 1 explosion-proof AC for ignitable fibers — textile mills, woodworking, cotton. Independent specialist. (844) 925-5668."
 url: "/class-3-division-1/"
 breadcrumb:
   - label: 'Classification'

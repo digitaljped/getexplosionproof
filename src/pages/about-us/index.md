@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "About getExplosionProof by Super Cool | Explosion Proof HVAC Specialists"
-description: "One of the last independent explosion-proof air conditioning specialists in the US. Serving refineries, chemical plants, mines, and military installations since day one. (844) 925-5668."
+title: "About getExplosionProof | Explosion Proof HVAC"
+description: "One of the last independent explosion-proof AC specialists in the US. Serving refineries, chemical plants, and mines. (844) 925-5668."
 url: "/about-us/"
 breadcrumb:
   - label: 'About Us'

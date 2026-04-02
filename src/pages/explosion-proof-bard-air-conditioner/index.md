@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Explosion Proof Bard Air Conditioners | Class 1 & 2 Division 1 & 2"
-description: "Explosion-proof Bard wall-mount air conditioners for Class 1 and Class 2 hazardous locations — the most common unit in US refineries. Independent modifier. Call (844) 925-5668."
+title: "Explosion Proof Bard Wall-Mount AC | All Classes"
+description: "Explosion-proof Bard wall-mount AC — the most common unit in US refineries. Class 1 & 2 hazardous locations. Independent modifier. (844) 925-5668."
 url: "/explosion-proof-bard-air-conditioner/"
 breadcrumb:
   - label: 'Products'

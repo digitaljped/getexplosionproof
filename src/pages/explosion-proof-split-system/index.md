@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Explosion Proof Split System Air Conditioners | Class 1 & 2 Hazardous Locations"
-description: "Explosion-proof split system air conditioners for higher BTU requirements or installations where wall penetration isn't possible. Independent indoor/outdoor ratings. Call (844) 925-5668."
+title: "Explosion Proof Split System AC | Hazardous Locations"
+description: "Explosion-proof split systems for higher BTU needs or installs where wall penetration isn't possible. Independent modifier. (844) 925-5668."
 url: "/explosion-proof-split-system/"
 breadcrumb:
   - label: 'Products'

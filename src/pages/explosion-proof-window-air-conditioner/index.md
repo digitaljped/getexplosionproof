@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Explosion Proof Window Air Conditioners | Class 1 & 2 Hazardous Locations"
-description: "Explosion-proof window air conditioners starting at $6,700 — the most affordable Class 1 Div 2 cooling option for hazardous locations. Independent modifier. Call (844) 925-5668."
+title: "Explosion Proof Window AC | Hazardous Locations"
+description: "Explosion-proof window AC from $6,700 — the most affordable Class 1 Div 2 cooling option. Independent modifier. (844) 925-5668."
 url: "/explosion-proof-window-air-conditioner/"
 breadcrumb:
   - label: 'Products'

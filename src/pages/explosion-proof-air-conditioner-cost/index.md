@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
 title: "Explosion Proof Air Conditioner Cost | Pricing Guide (2026)"
-description: "Explosion-proof air conditioner pricing from $6,700 to $50,000+ — window units, wall-mount, split systems, and pressurized systems. What drives cost, how to reduce it, and how to get a quote."
+description: "Explosion-proof AC pricing from $6,700 to $50,000+ — window, wall-mount, split, and pressurized. What drives cost and how to save."
 url: "/explosion-proof-air-conditioner-cost/"
 breadcrumb:
   - label: 'Guide'

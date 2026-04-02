@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "How to Choose an Explosion Proof Air Conditioner | Step-by-Step Buyer's Guide"
-description: "How to choose an explosion-proof air conditioner — determine your classification, size the unit, decide inside vs. outside, and get a quote. Independent specialist buyer's guide."
+title: "How to Choose an Explosion Proof AC | Buyer's Guide"
+description: "How to choose an explosion-proof AC — classification, sizing, indoor vs outdoor, and getting a quote. Independent buyer's guide."
 url: "/how-to-choose-explosion-proof-air-conditioner/"
 breadcrumb:
   - label: 'Guide'

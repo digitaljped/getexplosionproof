@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
 title: "Request a Quote | Explosion Proof Air Conditioners"
-description: "Request a quote for an explosion-proof air conditioner from an independent specialist. Bard wall-mounts, mini splits, split systems, and pressurization. Most quotes in 24–48 hours. (844) 925-5668."
+description: "Request a quote for explosion-proof AC — Bard wall-mounts, mini splits, split systems, pressurization. Most quotes in 24–48 hours. (844) 925-5668."
 url: "/get-a-quote/"
 breadcrumb:
   - label: 'Get a Quote'

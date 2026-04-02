@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Class 2 Division 1 Explosion Proof Air Conditioners | Groups E, F, G"
-description: "Class 2 Division 1 explosion-proof air conditioners for combustible dust — grain, coal, pharmaceutical, metal dust. Groups E, F, G. Independent specialist. Call (844) 925-5668."
+title: "Class 2 Division 1 Explosion Proof AC | Groups E–G"
+description: "Class 2 Div 1 explosion-proof AC for combustible dust — grain, coal, pharma, metal. Groups E, F, G. (844) 925-5668."
 url: "/class-2-division-1/"
 breadcrumb:
   - label: 'Classification'

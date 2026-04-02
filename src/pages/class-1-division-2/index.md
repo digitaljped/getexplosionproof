@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Class 1 Division 2 Explosion Proof Air Conditioners | Groups A, B, C, D"
-description: "Class 1 Division 2 explosion-proof air conditioners — the most common oil & gas classification. Groups C & D from $6,700. Independent specialist. Call (844) 925-5668."
+title: "Class 1 Division 2 Explosion Proof AC | Groups A–D"
+description: "Class 1 Div 2 explosion-proof AC — the most common oil & gas classification. Groups C & D from $6,700. Independent specialist. (844) 925-5668."
 url: "/class-1-division-2/"
 breadcrumb:
   - label: 'Classification'

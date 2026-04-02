@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Explosion Proof Air Conditioners for Chemical Plants | Hazardous Location HVAC"
-description: "Explosion-proof air conditioners for chemical plants — solvent handling, API processing, Class 1 and Class 2 locations. All groups. Independent hazardous location specialist. (844) 925-5668."
+title: "Explosion Proof AC for Chemical Plants (2026)"
+description: "Explosion-proof AC for chemical plants — solvent handling, API processing, Class 1 & 2. Independent specialist. (844) 925-5668."
 url: "/chemical-plants/"
 breadcrumb:
   - label: 'Industries'

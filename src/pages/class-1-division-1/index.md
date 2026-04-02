@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Class 1 Division 1 Explosion Proof Air Conditioners | Groups A, B, C, D"
-description: "Class 1 Division 1 explosion-proof air conditioners — the most stringent gas/vapor classification. Groups B, C, D. Independent specialist. Call (844) 925-5668."
+title: "Class 1 Division 1 Explosion Proof AC | Groups A–D"
+description: "Class 1 Div 1 explosion-proof AC — the most stringent gas/vapor classification. Groups B, C, D. Independent specialist. (844) 925-5668."
 url: "/class-1-division-1/"
 breadcrumb:
   - label: 'Classification'
