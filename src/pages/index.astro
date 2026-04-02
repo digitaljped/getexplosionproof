@@ -1,0 +1,399 @@
+---
+import Base from '../layouts/Base.astro';
+
+const schema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "name": "getExplosionProof by Super Cool",
+      "url": "https://www.getexplosionproof.com",
+      "telephone": "+18449255668",
+      "description": "One of the last independent explosion-proof air conditioning specialists in the United States. Custom modifications for Class 1 and Class 2 hazardous locations — any brand, any classification.",
+      "areaServed": {
+        "@type": "Country",
+        "name": "US"
+      },
+      "knowsAbout": [
+        "Explosion-proof air conditioning",
+        "Hazardous location HVAC",
+        "NEC Article 500 classification",
+        "Class 1 Division 1 air conditioning",
+        "Class 1 Division 2 air conditioning",
+        "Class 2 Division 1 air conditioning",
+        "Purge and pressurization systems",
+        "NFPA 496"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "name": "getExplosionProof",
+      "url": "https://www.getexplosionproof.com"
+    },
+    {
+      "@type": "Product",
+      "name": "Explosion Proof Air Conditioners",
+      "description": "Standard air conditioning units modified for hazardous location use — Class 1 and Class 2, Division 1 and Division 2, all groups.",
+      "brand": {
+        "@type": "Organization",
+        "name": "getExplosionProof by Super Cool"
+      },
+      "offers": {
+        "@type": "AggregateOffer",
+        "priceCurrency": "USD",
+        "lowPrice": "6700",
+        "highPrice": "50000",
+        "offerCount": "6",
+        "availability": "https://schema.org/InStock"
+      }
+    }
+  ]
+};
+---
+<Base
+  title="Explosion Proof Air Conditioners for Hazardous Locations | getExplosionProof"
+  description="Independent explosion-proof air conditioning specialists — Class 1 & Class 2, Division 1 & 2, all groups. Installed at every major US refinery. Quotes in 24–48 hrs. (844) 925-5668."
+  canonical="/"
+  schema={schema}
+>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="hero-inner">
+      <h1>Explosion Proof Air Conditioners for Hazardous Locations</h1>
+      <p class="hero-sub">Specialists in Class 1 and Class 2 hazardous location cooling. Our equipment is installed at virtually every major oil refinery in the United States.</p>
+      <a href="tel:+18449255668" class="hero-phone">(844) 925-5668</a>
+      <p class="hero-tagline">Quotes in 24–48 hours &nbsp;·&nbsp; Any brand &nbsp;·&nbsp; Any classification</p>
+    </div>
+  </section>
+
+  <!-- Why Us -->
+  <section class="section section-alt">
+    <div class="section-inner">
+      <div class="section-header">
+        <h2>Not Every HVAC Company Can Do This</h2>
+        <p>Explosion-proof air conditioning is one of the most specialized fields in industrial HVAC. There are only a handful of operations in the United States qualified to do it correctly. We are one of them.</p>
+      </div>
+      <div class="feature-grid">
+        <div class="feature-card">
+          <h3>We Specialize</h3>
+          <p>Explosion-proof HVAC is not a sideline. It's all we do. Faster answers, accurate quoting, no learning curve on complex applications.</p>
+        </div>
+        <div class="feature-card">
+          <h3>We Have Access</h3>
+          <p>We have been modifying and supplying explosion-proof HVAC for over a decade. Our equipment is installed across the entire US refinery system.</p>
+        </div>
+        <div class="feature-card">
+          <h3>We Move Fast</h3>
+          <p>Most quotes come back in 24–48 hours. We don't make you wait two weeks to find out if a project is feasible.</p>
+        </div>
+        <div class="feature-card">
+          <h3>Any Brand, Any Spec</h3>
+          <p>We most commonly modify Bard wall-mount units, but we can work with virtually any brand to meet your exact classification requirements.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Independence + Guide CTA -->
+  <section class="section">
+    <div class="section-inner">
+      <div class="section-header">
+        <h2>The Last Independent Modifier Standing</h2>
+        <p>One large consolidator has acquired most explosion-proof HVAC modifiers in the United States. We remain independent — which means faster decisions, direct access to our engineering team, and no corporate layers between you and your quote. When you call us, you talk to the people doing the work.</p>
+      </div>
+      <p style="text-align:center;margin-top:1rem;">
+        <a href="/what-is-an-explosion-proof-air-conditioner/" class="btn btn-outline">Read Our Complete Guide to Explosion Proof Air Conditioning →</a>
+      </p>
+    </div>
+  </section>
+
+  <!-- Industries -->
+  <section class="section section-dark">
+    <div class="section-inner">
+      <div class="section-header">
+        <h2>Industries We Serve</h2>
+        <p>From Gulf Coast refineries to pharmaceutical clean rooms, we've worked across the full range of hazardous location environments.</p>
+      </div>
+      <div class="industries-grid">
+        <a href="/oil-gas/" class="industry-card"><h3>Oil &amp; Gas</h3></a>
+        <a href="/chemical-plants/" class="industry-card"><h3>Chemical Plants</h3></a>
+        <a href="/mining/" class="industry-card"><h3>Mining</h3></a>
+        <a href="/pharmaceutical/" class="industry-card"><h3>Pharmaceutical</h3></a>
+        <a href="/military-government/" class="industry-card"><h3>Military &amp; Government</h3></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Classification -->
+  <section class="section">
+    <div class="section-inner">
+      <div class="section-header">
+        <h2>Find Your Classification</h2>
+        <p>Every explosion-proof air conditioner is specified to a Class, Division, and Group. Start here if you're not sure what you need.</p>
+      </div>
+      <div class="class-grid">
+        <a href="/class-1-division-1/" class="class-card">
+          <div class="class-label">Class 1</div>
+          <h3>Division 1 — Groups B, C, D</h3>
+          <p>Flammable gas or vapor present under normal conditions. Most demanding Class 1 specification.</p>
+        </a>
+        <a href="/class-1-division-2/" class="class-card">
+          <div class="class-label">Class 1 · Most Common</div>
+          <h3>Division 2 — Groups B, C, D</h3>
+          <p>Flammable gas or vapor present only under abnormal conditions. Standard for most refineries and chemical plants.</p>
+        </a>
+        <a href="/class-2-division-1/" class="class-card">
+          <div class="class-label">Class 2</div>
+          <h3>Division 1 — Groups E, F, G</h3>
+          <p>Combustible dust present in suspension under normal conditions. Grain elevators, certain pharma and mining operations.</p>
+        </a>
+        <a href="/class-2-division-2/" class="class-card">
+          <div class="class-label">Class 2</div>
+          <h3>Division 2 — Groups E, F, G</h3>
+          <p>Combustible dust accumulation only. Less stringent than Division 1 but still requires rated equipment.</p>
+        </a>
+      </div>
+      <p style="text-align:center;margin-top:1.5rem;">
+        <a href="/how-to-choose-explosion-proof-air-conditioner/" class="btn btn-outline">How to Determine Your Classification →</a>
+      </p>
+    </div>
+  </section>
+
+  <!-- Pricing Snapshot -->
+  <section class="section section-alt">
+    <div class="section-inner">
+      <div class="section-header">
+        <h2>Pricing Overview</h2>
+        <p>Every unit is custom. These are typical starting points — call us for an exact quote.</p>
+      </div>
+      <div class="pricing-grid">
+        <div class="pricing-card">
+          <div class="price-label">Mini Split · Most Affordable</div>
+          <div class="price">From $6,700</div>
+          <p>Class 1, Div 2, Group C&amp;D. Indoor head + outdoor condenser. The budget-friendly option.</p>
+        </div>
+        <div class="pricing-card featured">
+          <div class="price-label">Full Unit · Inside + Outside</div>
+          <div class="price">From $9,000</div>
+          <p>Both sections within classified area. Most common refinery configuration.</p>
+        </div>
+        <div class="pricing-card">
+          <div class="price-label">Pressurized Systems</div>
+          <div class="price">$25K – $50K+</div>
+          <p>Purge &amp; pressurization for large enclosures and critical applications.</p>
+        </div>
+      </div>
+      <p style="text-align:center;margin-top:1.5rem;">
+        <a href="/explosion-proof-air-conditioner-cost/" class="btn btn-outline">Full Pricing Guide →</a>
+      </p>
+    </div>
+  </section>
+
+  <!-- Trusted By -->
+  <section class="section section-dark">
+    <div class="section-inner">
+      <div class="section-header">
+        <h2>Trusted By</h2>
+      </div>
+      <div class="customer-logos">
+        <img src="/images/customers/logo-exxonmobil.png" alt="ExxonMobil" />
+        <img src="/images/customers/logo-halliburton.png" alt="Halliburton" />
+        <img src="/images/customers/logo-conocophillips.png" alt="ConocoPhillips" />
+        <img src="/images/customers/logo-northrop-grumman.png" alt="Northrop Grumman" />
+        <img src="/images/customers/logo-pfizer.png" alt="Pfizer" />
+      </div>
+      <div class="customer-names-secondary">
+        <span>Rohm &amp; Haas</span>
+        <span>DOW</span>
+        <span>Oak Ridge National Laboratory</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Unit Types — Interactive Showcase -->
+  <section class="section section-alt unit-showcase-section">
+    <div class="section-inner">
+      <div class="section-header">
+        <h2>Unit Types We Modify</h2>
+        <p>Wall-mount, through-wall, split system, window, pad mount, rooftop, and over/under configurations — whatever your installation requires.</p>
+      </div>
+
+      <div class="unit-showcase">
+        <!-- Main display -->
+        <div class="unit-showcase-stage">
+          <a id="unit-showcase-link" href="/explosion-proof-bard-air-conditioner/" class="unit-showcase-img-wrap">
+            <img id="unit-showcase-img" src="/images/icons/wall-mount-light.svg" alt="Wall Mount Unit" />
+          </a>
+          <div class="unit-showcase-info">
+            <div id="unit-showcase-name" class="unit-showcase-name">Wall Mount</div>
+            <div id="unit-showcase-desc" class="unit-showcase-desc">Bard wall-mount units modified for hazardous locations. The most common explosion-proof configuration for control rooms and utility buildings.</div>
+          </div>
+        </div>
+
+        <!-- Thumbnail strip -->
+        <div class="unit-showcase-thumbs" id="unit-showcase-thumbs">
+          <a class="unit-thumb active" data-index="0" href="/explosion-proof-bard-air-conditioner/" aria-label="Wall Mount">
+            <img src="/images/icons/wall-mount-light.svg" alt="Wall Mount" />
+            <span>Wall Mount</span>
+          </a>
+          <a class="unit-thumb" data-index="1" href="/explosion-proof-mini-split/" aria-label="Mini Split">
+            <img src="/images/icons/split-system-light.svg" alt="Mini Split" />
+            <span>Mini Split</span>
+          </a>
+          <a class="unit-thumb" data-index="2" href="/explosion-proof-split-system/" aria-label="Split System">
+            <img src="/images/icons/split-system-light.svg" alt="Split System" />
+            <span>Split System</span>
+          </a>
+          <a class="unit-thumb" data-index="3" href="/get-a-quote/" aria-label="Through Wall">
+            <img src="/images/icons/through-wall-light.svg" alt="Through Wall" />
+            <span>Through Wall</span>
+          </a>
+          <a class="unit-thumb" data-index="4" href="/get-a-quote/" aria-label="Rooftop">
+            <img src="/images/icons/rooftop-light.svg" alt="Rooftop" />
+            <span>Rooftop</span>
+          </a>
+          <a class="unit-thumb" data-index="5" href="/get-a-quote/" aria-label="Pad Mount">
+            <img src="/images/icons/pad-mount-light.svg" alt="Pad Mount" />
+            <span>Pad Mount</span>
+          </a>
+          <a class="unit-thumb" data-index="6" href="/get-a-quote/" aria-label="Over Under">
+            <img src="/images/icons/over-under-light.svg" alt="Over Under" />
+            <span>Over / Under</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script>
+    const units = [
+      {
+        name: "Wall Mount",
+        img: "/images/icons/wall-mount-light.svg",
+        desc: "Bard wall-mount units modified for hazardous locations. The most common explosion-proof configuration for control rooms and utility buildings.",
+        href: "/explosion-proof-bard-air-conditioner/"
+      },
+      {
+        name: "Mini Split",
+        img: "/images/icons/split-system-light.svg",
+        desc: "The most affordable explosion-proof option — compact indoor head on the wall or ceiling, condenser outside. Now replacing window units as the budget-friendly choice.",
+        href: "/explosion-proof-mini-split/"
+      },
+      {
+        name: "Split System",
+        img: "/images/icons/split-system-light.svg",
+        desc: "Split systems for larger BTU requirements or installations where wall penetration isn't possible. Indoor and outdoor sections independently rated.",
+        href: "/explosion-proof-split-system/"
+      },
+      {
+        name: "Through Wall",
+        img: "/images/icons/through-wall-light.svg",
+        desc: "Through-wall configurations for Class 1 and Class 2 applications. Both sections fully rated when the entire unit is within the classified area.",
+        href: "/get-a-quote/"
+      },
+      {
+        name: "Rooftop",
+        img: "/images/icons/rooftop-light.svg",
+        desc: "Rooftop units for facilities where ground clearance is limited or interior floor space is at a premium. Custom-rated for the classification of the installation area.",
+        href: "/get-a-quote/"
+      },
+      {
+        name: "Pad Mount",
+        img: "/images/icons/pad-mount-light.svg",
+        desc: "Ground-mounted configurations for outdoor classified areas. Robust housing rated for the environment — common in outdoor process areas and substations.",
+        href: "/get-a-quote/"
+      },
+      {
+        name: "Over / Under",
+        img: "/images/icons/over-under-light.svg",
+        desc: "Stacked over/under configurations for maximum BTU output in constrained horizontal spaces. Two units, one footprint, double the cooling capacity.",
+        href: "/get-a-quote/"
+      }
+    ];
+
+    let current = 0;
+    let timer = null;
+    let paused = false;
+
+    const img = document.getElementById('unit-showcase-img');
+    const name = document.getElementById('unit-showcase-name');
+    const desc = document.getElementById('unit-showcase-desc');
+    const link = document.getElementById('unit-showcase-link');
+    const thumbs = document.querySelectorAll('.unit-thumb');
+
+    function showUnit(index, fromUser = false) {
+      current = index;
+      const u = units[index];
+
+      // Instant jump cut — no fade
+      img.src = u.img;
+      img.alt = u.name;
+      name.textContent = u.name;
+      desc.textContent = u.desc;
+      link.href = u.href;
+
+      thumbs.forEach((t, i) => t.classList.toggle('active', i === index));
+
+      if (fromUser) {
+        paused = true;
+        clearInterval(timer);
+        // Resume auto-cycle after 6 seconds of inactivity
+        setTimeout(() => {
+          paused = false;
+          startTimer();
+        }, 6000);
+      }
+    }
+
+    function startTimer() {
+      clearInterval(timer);
+      timer = setInterval(() => {
+        if (!paused) showUnit((current + 1) % units.length);
+      }, 3500);
+    }
+
+    thumbs.forEach((thumb, i) => {
+      thumb.addEventListener('mouseenter', () => showUnit(i, true));
+    });
+
+    startTimer();
+  </script>
+
+  <!-- Resources -->
+  <section class="section">
+    <div class="section-inner">
+      <div class="section-header">
+        <h2>Learn Before You Buy</h2>
+        <p>Technical guides written by the people who actually build and install this equipment.</p>
+      </div>
+      <div class="feature-grid">
+        <a href="/what-is-an-explosion-proof-air-conditioner/" class="feature-card" style="text-decoration:none;color:inherit;">
+          <h3>What Is Explosion Proof AC?</h3>
+          <p>The complete guide — classifications, how it works, pricing, real installations, and common misconceptions explained in plain English.</p>
+        </a>
+        <a href="/how-to-choose-explosion-proof-air-conditioner/" class="feature-card" style="text-decoration:none;color:inherit;">
+          <h3>How to Choose</h3>
+          <p>Step-by-step buyer's guide — determine your classification, size the unit, decide inside-only vs. full modification, and get a quote.</p>
+        </a>
+        <a href="/explosion-proof-air-conditioner-cost/" class="feature-card" style="text-decoration:none;color:inherit;">
+          <h3>How Much Does It Cost?</h3>
+          <p>Pricing breakdown for every configuration — window units from $6,700 to pressurized systems over $50,000. What drives the cost.</p>
+        </a>
+        <a href="/faq/" class="feature-card" style="text-decoration:none;color:inherit;">
+          <h3>FAQ</h3>
+          <p>Quick answers to the most common questions about explosion-proof air conditioning — lead times, brands, Division 1 vs. 2, and more.</p>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <div class="cta-bar">
+    <h2>Ready to Get a Quote?</h2>
+    <p>Tell us your classification, BTU requirement, and site conditions — we'll have a number back within 24–48 hours.</p>
+    <a href="tel:+18449255668" class="cta-phone">(844) 925-5668</a>
+    <p class="cta-sub">Or <a href="/get-a-quote/">request a quote online</a></p>
+  </div>
+
+</Base>

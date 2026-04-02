@@ -1,0 +1,147 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  schema?: object;
+}
+
+const { title, description, canonical, schema } = Astro.props;
+const siteUrl = 'https://www.getexplosionproof.com';
+const canonicalUrl = canonical ? `${siteUrl}${canonical}` : `${siteUrl}${Astro.url.pathname}`;
+
+const navLinks = [
+  { href: '/class-1-division-2/', label: 'C1D2' },
+  { href: '/class-1-division-1/', label: 'C1D1' },
+  { href: '/how-to-choose-explosion-proof-air-conditioner/', label: 'How to Choose' },
+  { href: '/pressurization-explosion-proof-buildings/', label: 'Pressurization' },
+  { href: '/explosion-proof-air-conditioner-cost/', label: 'Pricing' },
+  { href: '/faq/', label: 'FAQ' },
+];
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalUrl} />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:image" content={`${siteUrl}/images/site/refinery-bg.jpg`} />
+
+  <!-- Structured Data: Organization -->
+  <script type="application/ld+json">
+    {JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "getExplosionProof by Super Cool",
+      "url": siteUrl,
+      "telephone": "+18449255668",
+      "description": "Specialist explosion-proof air conditioner distributor serving Class 1 and Class 2 hazardous locations across the United States.",
+      "areaServed": "US",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+18449255668",
+        "contactType": "sales",
+        "availableLanguage": "English"
+      }
+    })}
+  </script>
+
+  <!-- Page-specific schema -->
+  {schema && (
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  )}
+
+  <!-- Preconnect for Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+  <link rel="icon" type="image/png" href="/images/site/logo.png" />
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="/" class="site-logo">
+        <img src="/logo-gep-light.png" alt="getExplosionProof by Super Cool" class="site-logo-img" />
+      </a>
+      <button class="nav-toggle" aria-label="Toggle navigation" onclick="this.nextElementSibling.classList.toggle('open')">
+        <span></span><span></span><span></span>
+      </button>
+      <nav class="site-nav">
+        {navLinks.map(link => (
+          <a href={link.href} class={Astro.url.pathname === link.href ? 'active' : ''}>
+            {link.label}
+          </a>
+        ))}
+        <a href="/get-a-quote/" class="nav-cta">Get a Quote</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Page Content -->
+  <slot />
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <a href="/" class="footer-logo">getExplosionProof by Super Cool</a>
+        <p>Specialist explosion-proof air conditioning for Class 1 and Class 2 hazardous locations. Our units are installed at virtually every major oil refinery in the United States.</p>
+        <a href="tel:+18449255668" class="footer-phone">(844) 925-5668</a>
+      </div>
+      <div class="footer-col">
+        <h4>Products</h4>
+        <ul>
+          <li><a href="/explosion-proof-bard-air-conditioner/">Bard Units</a></li>
+          <li><a href="/explosion-proof-window-air-conditioner/">Window Units</a></li>
+          <li><a href="/explosion-proof-split-system/">Split Systems</a></li>
+          <li><a href="/pressurization-explosion-proof-buildings/">Pressurization</a></li>
+          <li><a href="/explosion-proof-air-conditioner-cost/">Pricing</a></li>
+          <li><a href="/get-a-quote/">Get a Quote</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Classification</h4>
+        <ul>
+          <li><a href="/class-1-division-1/">Class 1, Division 1</a></li>
+          <li><a href="/class-1-division-2/">Class 1, Division 2</a></li>
+          <li><a href="/class-2-division-1/">Class 2, Division 1</a></li>
+          <li><a href="/class-2-division-2/">Class 2, Division 2</a></li>
+          <li><a href="/class-3-division-1/">Class 3, Division 1</a></li>
+          <li><a href="/nec-500-vs-505/">NEC 500 vs 505</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Industries</h4>
+        <ul>
+          <li><a href="/oil-gas/">Oil &amp; Gas</a></li>
+          <li><a href="/chemical-plants/">Chemical Plants</a></li>
+          <li><a href="/mining/">Mining</a></li>
+          <li><a href="/pharmaceutical/">Pharmaceutical</a></li>
+          <li><a href="/military-government/">Military &amp; Government</a></li>
+          <li><a href="/faq/">FAQ</a></li>
+          <li><a href="/about-us/">About Us</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="container">
+      <div class="footer-bottom">
+        <span>&copy; {new Date().getFullYear()} Super Cool Company. All rights reserved.</span>
+        <span>Explosion-proof HVAC specialists &mdash; <a href="tel:+18449255668">(844) 925-5668</a></span>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

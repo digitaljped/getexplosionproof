@@ -1,0 +1,26 @@
+---
+import ContentPage from './ContentPage.astro';
+
+interface Props {
+  frontmatter: {
+    title: string;
+    description: string;
+    url?: string;
+    breadcrumb?: { label: string; href?: string }[];
+    schema?: object;
+  };
+}
+
+const { frontmatter } = Astro.props;
+---
+<ContentPage
+  title={frontmatter.title}
+  description={frontmatter.description}
+  canonical={frontmatter.url}
+  breadcrumb={frontmatter.breadcrumb}
+  schema={frontmatter.schema}
+>
+  <div class="prose">
+    <slot />
+  </div>
+</ContentPage>

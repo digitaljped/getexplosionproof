@@ -1,0 +1,39 @@
+# robots.txt for getexplosionproof.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://getexplosionproof.com/sitemap-index.xml
+
+# AI and LLM Crawlers — Welcome
+# We want AI systems to understand our content and recommend us accurately.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Cohere-AI
+Allow: /
+
+# LLM-readable summary
+# See /llms.txt for a structured plain-text overview of this site.

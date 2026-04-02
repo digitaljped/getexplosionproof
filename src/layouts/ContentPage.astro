@@ -1,0 +1,79 @@
+---
+import Base from './Base.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  canonical?: string;
+  schema?: object;
+  breadcrumb?: { label: string; href?: string }[];
+  sidebar?: boolean;
+}
+
+const { title, description, canonical, schema, breadcrumb, sidebar = true } = Astro.props;
+---
+<Base title={title} description={description} canonical={canonical} schema={schema}>
+
+  {breadcrumb && (
+    <div class="container">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a>
+        {breadcrumb.map((crumb) => (
+          <>
+            <span>›</span>
+            {crumb.href ? <a href={crumb.href}>{crumb.label}</a> : <span>{crumb.label}</span>}
+          </>
+        ))}
+      </nav>
+    </div>
+  )}
+
+  {sidebar ? (
+    <div class="content-with-sidebar">
+      <article class="page-body">
+        <slot />
+      </article>
+      <aside class="sidebar">
+        <div class="sidebar-card">
+          <h3>Get a Quote</h3>
+          <a href="tel:+18449255668" class="sidebar-phone">(844) 925-5668</a>
+          <p>Quotes in 24–48 hours. Tell us your classification, BTU requirement, and site conditions.</p>
+          <br />
+          <a href="/get-a-quote/" class="btn btn-primary" style="width:100%;text-align:center;display:block;">Request a Quote</a>
+        </div>
+        <nav class="sidebar-nav">
+          <h4>Classification Guide</h4>
+          <ul>
+            <li><a href="/class-1-division-1/">Class 1, Division 1</a></li>
+            <li><a href="/class-1-division-2/">Class 1, Division 2</a></li>
+            <li><a href="/class-2-division-1/">Class 2, Division 1</a></li>
+            <li><a href="/class-2-division-2/">Class 2, Division 2</a></li>
+            <li><a href="/class-3-division-1/">Class 3, Division 1</a></li>
+            <li><a href="/nec-500-vs-505/">NEC 500 vs 505</a></li>
+          </ul>
+          <br />
+          <h4>Products</h4>
+          <ul>
+            <li><a href="/explosion-proof-bard-air-conditioner/">Bard Units</a></li>
+            <li><a href="/explosion-proof-window-air-conditioner/">Window Units</a></li>
+            <li><a href="/explosion-proof-air-conditioner-cost/">Pricing Guide</a></li>
+            <li><a href="/how-to-choose-explosion-proof-air-conditioner/">How to Choose</a></li>
+          </ul>
+        </nav>
+      </aside>
+    </div>
+  ) : (
+    <div class="page-content">
+      <slot />
+    </div>
+  )}
+
+  <!-- CTA Bar -->
+  <div class="cta-bar">
+    <h2>Ready to Get a Quote?</h2>
+    <p>Tell us your classification and BTU requirement — we'll have a number back to you in 24–48 hours.</p>
+    <a href="tel:+18449255668" class="cta-phone">(844) 925-5668</a>
+    <p class="cta-sub">Or <a href="/get-a-quote/">request a quote online</a></p>
+  </div>
+
+</Base>
