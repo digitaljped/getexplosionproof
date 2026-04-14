@@ -55,6 +55,8 @@ schema:
 
 # Phenicon Coating — The Most Corrosion Resistant Air Conditioner Coating Available
 
+![HVAC coil being prepped for Phenicon coating — copper refrigerant lines and aluminum fins cleaned before epoxy novolac application](/images/site/phenicon-coil-prep.jpg)
+
 If your air conditioning equipment operates in a corrosive environment and you're relying on a standard coil coating to protect it, you're going to replace that unit far sooner than you should. Coatings like Heresite, ElectroFin, and Blygold protect the coil. They don't touch the cabinet, the copper, the hardware, or the internal components that corrode just as fast in harsh industrial service.
 
 We do something fundamentally different. We coat the **entire unit** — every surface, inside and out — with Sherwin-Williams **Phenicon HS**, an epoxy novolac phenolic coating that was engineered to line the inside of crude oil storage tanks and brine vessels. This is not an HVAC product repurposed from a spray can. This is an industrial tank liner applied with the same rigor and surface preparation standards used in petrochemical and marine service.
@@ -99,8 +101,6 @@ But when your unit sits on an **offshore oil platform**, processes air inside a 
 The result is a **corrosion resistant air conditioner** that is fully encapsulated in a coating rated for the most chemically aggressive environments in industrial service. Not just a coated coil — a coated unit.
 
 ---
-
-![HVAC coil being prepped for Phenicon coating — copper refrigerant lines and aluminum fins cleaned before epoxy novolac application](/images/site/phenicon-coil-prep.jpg)
 
 ## The Application Process
 
