@@ -123,6 +123,12 @@ We modify standard air conditioning units — most commonly Bard wall-mount unit
 - **Optional coil coating:** Recommended for corrosive, coastal, or chemically aggressive environments
 - **Documentation:** Full compliance documentation included
 
+**Watch a Class 1, Division 2 explosion proof air conditioner modification:**
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;">
+  <iframe src="https://www.youtube.com/embed/qUUXOehGOiY" title="Class 1 Division 2 Explosion Proof Air Conditioner Modification" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+</div>
+
 ---
 
 ## Pricing

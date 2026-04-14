@@ -118,7 +118,11 @@ This is not a quick spray-and-ship operation. Phenicon HS requires the same surf
 
 6. **Reassembly and testing** — The unit is fully rebuilt, leak-tested, charged, and functionally verified before it ships.
 
-**Watch the full process:** See Phenicon coating applied to a Bard wall-mount explosion proof air conditioner in our shop — [Watch on YouTube](https://www.youtube.com/watch?v=wi39ksZHGLY)
+**Watch the full process:** See Phenicon coating applied to a Bard wall-mount explosion proof air conditioner in our shop:
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:1.5rem 0;">
+  <iframe src="https://www.youtube.com/embed/wi39ksZHGLY" title="Phenicon Coating Application Process — Explosion Proof Bard Wall-Mount Air Conditioner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
+</div>
 
 ---
 
