@@ -59,7 +59,7 @@ Converting a Bard unit to explosion-proof specifications involves re-engineering
 
 **Rigid metallic conduit and sealing fittings.** All standard wiring and flexible conduit is replaced with rigid metallic conduit. Explosion-proof sealing fittings are installed at every enclosure penetration point to prevent flame propagation through wiring pathways.
 
-**Coated coils.** For corrosive environments — H₂S in refineries, salt air at coastal or offshore facilities, acidic atmospheres in chemical plants — evaporator and condenser coils are coated with Aqua-Aero or equivalent protective coating to prevent premature failure.
+**Corrosion protection.** For corrosive environments — H₂S in refineries, salt air at coastal or offshore facilities, acidic atmospheres in chemical plants — we offer two levels of protection. Standard coated coils using Aqua-Aero provide moderate corrosion resistance. For the most demanding environments, our **[Phenicon coating](/phenicon-coating/)** process uses Sherwin-Williams epoxy novolac phenolic applied to the entire unit — coils, copper, and cabinet inside and out — rated for full brine immersion and crude oil service.
 
 **Custom enclosures.** When the standard Bard enclosure does not meet classification requirements — or when the application demands stainless steel or specially coated materials — we fabricate custom enclosures to spec.
 
@@ -123,7 +123,17 @@ A Bard wall-mount is the right choice for most applications, but not all. Here i
 
 ## Any Brand, Any Spec
 
-While Bard is our most frequently modified unit, we apply explosion-proof fabrication to virtually any brand of air conditioner — Trane, Carrier, Lennox, Mitsubishi, or others — when a customer brings us a specific unit requirement. If you have a brand preference or an existing unit that needs to be matched, we can work with it.
+While Bard is our most frequently modified unit, we apply explosion-proof modification to virtually any brand of air conditioner. We are an independent modifier, not a manufacturer — which means we're not pushing proprietary equipment. If your facility spec calls for a specific brand, we can modify it to your exact hazardous location classification:
+
+- **Trane** — explosion proof Trane units for commercial and industrial applications
+- **Carrier** — explosion proof Carrier modifications for any Class and Division
+- **Lennox** — explosion proof Lennox units modified to your specification
+- **Marvair** — explosion proof Marvair wall-mount and packaged units
+- **Mitsubishi** — explosion proof Mitsubishi mini splits and split systems
+- **Friedrich** — hazardous location Friedrich modifications beyond standard Hazardgard ratings
+- **Any other manufacturer** — if it's an air conditioner, we can explosion-proof it
+
+If you have an existing unit on site that needs to be brought into hazardous location compliance, we can convert it. If you need a [custom solution](/custom-air-conditioner/) — redundant N+1 systems, stainless steel, blast-resistant module integration — we build that too.
 
 ---
 
@@ -146,5 +156,7 @@ The fastest way to get a quote is a phone call. Our team can usually give you a 
 - [Class 1, Division 2 Explained](/class-1-division-2/) — the most common classification
 - [Class 1, Division 1 Explained](/class-1-division-1/) — continuously hazardous areas
 - [Pressurization Systems](/pressurization-explosion-proof-buildings/) — an alternative for large buildings
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for the entire unit
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — N+1, stainless steel, blast-resistant builds
 - [Oil & Gas Applications](/oil-gas/) — refinery and petrochemical installations
 - [FAQ](/faq/) — common questions

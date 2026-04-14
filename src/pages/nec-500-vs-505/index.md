@@ -130,4 +130,6 @@ When you call us for a quote, let us know whether your facility classification i
 - [Explosion Proof Mini Splits](/explosion-proof-mini-split/) — affordable cooling for classified spaces
 - [Explosion Proof Bard Air Conditioners](/explosion-proof-bard-air-conditioner/) — wall-mount units
 - [How to Choose](/how-to-choose-explosion-proof-air-conditioner/) — buyer's guide
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for any classification
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds for complex applications
 - [FAQ](/faq/)

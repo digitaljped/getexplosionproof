@@ -125,6 +125,14 @@ Class 2 modifications are quoted case by case based on group, unit size, and sco
 
 ---
 
+## Any Brand, Modified for Class 2 Division 2
+
+We're an independent modifier — we can convert any manufacturer's air conditioner for Class 2, Division 2 service. Bard, Trane, Carrier, Lennox, Mitsubishi, or any other brand. If you have existing equipment that needs to be brought into dust classification compliance, we handle the retrofit.
+
+For corrosive dust environments, our [Phenicon coating](/phenicon-coating/) provides industrial-grade protection for the entire unit — not just the coils.
+
+---
+
 ## Related Pages
 
 - [What Is an Explosion Proof Air Conditioner?](/what-is-an-explosion-proof-air-conditioner/) — complete guide
@@ -137,4 +145,6 @@ Class 2 modifications are quoted case by case based on group, unit size, and sco
 - [Mining Applications](/mining/) — coal dust environments
 - [Pharmaceutical Applications](/pharmaceutical/) — API dust environments
 - [How Much Does It Cost?](/explosion-proof-air-conditioner-cost/) — pricing breakdown
+- [Phenicon Coating](/phenicon-coating/) — corrosion protection for demanding environments
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds
 - [FAQ](/faq/)

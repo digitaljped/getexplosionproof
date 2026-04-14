@@ -249,7 +249,7 @@ Based on your cooling load and installation constraints:
 
 Beyond classification, environmental factors affect the specification:
 
-**Corrosive atmospheres** — H₂S, salt air, coastal humidity, or acidic environments will degrade standard aluminum coils. Coated coils (Aqua-Aero or equivalent protective coating) are recommended for these applications and add modest cost.
+**Corrosive atmospheres** — H₂S, salt air, coastal humidity, or acidic environments will degrade standard aluminum coils and unprotected cabinets. For moderate corrosion, coated coils (Aqua-Aero) add basic protection. For severe corrosion environments — offshore platforms, wastewater treatment, chemical processing — our [Phenicon coating](/phenicon-coating/) applies Sherwin-Williams epoxy novolac to the entire unit (coils, copper, cabinet) and is rated for brine immersion and crude oil service.
 
 **Extreme ambient temperatures** — Units are rated at standard conditions (typically 95°F outdoor ambient). In desert climates or near process heat sources, capacity de-rating or oversizing may be needed.
 
@@ -384,7 +384,7 @@ Typically **4–8 weeks** from order to delivery, depending on the base unit ava
 
 ### "Can you modify any brand of air conditioner?"
 
-Yes. While Bard wall-mount units are our most commonly modified base unit, we can apply explosion-proof modification to virtually any brand — Trane, Carrier, Lennox, Mitsubishi, or others — when a specific unit is required for the application.
+Yes. While Bard wall-mount units are our most commonly modified platform, we can apply explosion-proof modification to any manufacturer's equipment — Trane, Carrier, Lennox, Marvair, Mitsubishi, Daikin, Friedrich, York, or any other brand. We're an independent modifier, not a manufacturer, so we're not locked into proprietary equipment. If your facility has a brand preference, existing equipment that needs hazardous location conversion, or a procurement spec that requires a particular manufacturer, we handle the modification and retrofit.
 
 ### "What about maintenance?"
 
@@ -427,7 +427,7 @@ Getting a quote for explosion-proof air conditioning is straightforward once you
 
 ### Why Work With Us
 
-We are one of the last independent explosion-proof air conditioning specialists in the United States. One large consolidator has acquired most of the modifiers in this space. We remain independent — which means faster decisions, direct access to the people doing the engineering, and no corporate layers between you and your quote.
+We are one of the last independent explosion-proof air conditioning specialists in the United States. One large consolidator has acquired most of the modifiers in this space. We remain independent — which means faster decisions, direct access to the people doing the engineering, no corporate layers between you and your quote, and the freedom to modify any brand of equipment. We're not a manufacturer trying to sell you our proprietary unit. We modify yours.
 
 Our equipment is installed at virtually every major oil refinery in the country. We have supplied explosion-proof HVAC to ExxonMobil, ConocoPhillips, Halliburton, Northrop Grumman, Pfizer, and dozens of other industrial, military, and government facilities.
 
@@ -453,4 +453,7 @@ We specialize in this and only this. Explosion-proof HVAC is not a sideline — 
 - [Mining Applications](/mining/)
 - [Pharmaceutical Applications](/pharmaceutical/)
 - [Military & Government Applications](/military-government/)
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for the entire unit
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — N+1, stainless steel, blast-resistant builds
 - [FAQ](/faq/) — quick answers to common questions
+- [Get a Quote](/get-a-quote/) — most quotes in 24–48 hours

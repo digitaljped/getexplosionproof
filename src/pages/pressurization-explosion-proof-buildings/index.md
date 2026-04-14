@@ -168,5 +168,7 @@ Tell us what you have: building dimensions, location classification, heat load i
 - [Oil & Gas Applications](/oil-gas/) — our most common pressurization customer
 - [Chemical Plant Applications](/chemical-plants/) — complex classification environments
 - [Military & Government](/military-government/) — DOD and DOE installations
+- [Phenicon Coating](/phenicon-coating/) — corrosion protection for the outdoor condenser in corrosive environments
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — N+1 redundant systems and specialty builds
 - [FAQ](/faq/) — common questions about explosion-proof air conditioning
 - [Get a Quote](/get-a-quote/) — most quotes in 24–48 hours

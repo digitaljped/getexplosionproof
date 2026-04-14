@@ -116,9 +116,13 @@ Groups C and D (ethylene, petroleum vapors, natural gas, gasoline) are the most 
 
 Larger units have larger motors, which cost more to replace with explosion-proof equivalents. The relationship is roughly linear — a 5-ton unit costs proportionally more to modify than a 1-ton unit because every motor in the system is larger and more expensive.
 
-### Coated Coils
+### Corrosion Protection
 
-Facilities with corrosive atmospheres — H₂S (common in refineries and wastewater), salt air (coastal and offshore), acidic or chlorinated environments — need coated coils (Aqua-Aero or equivalent) to prevent premature coil failure. Coil coating adds to the base price but is a fraction of the cost of replacing corroded coils in the field, especially when the unit is in a classified area that requires hot work permits for maintenance.
+Facilities with corrosive atmospheres — H₂S (common in refineries and wastewater), salt air (coastal and offshore), acidic or chlorinated environments — need corrosion protection to prevent premature equipment failure.
+
+**Standard coated coils** (Aqua-Aero or equivalent) add moderate protection for the coil surfaces. Appropriate for mildly corrosive environments.
+
+**[Phenicon coating](/phenicon-coating/)** is our premium option for severe corrosion environments. This Sherwin-Williams epoxy novolac phenolic is applied to the entire unit — coils, copper, and cabinet inside and out — and is rated for brine immersion and crude oil service. The cost is higher than standard coil coating, but it's a fraction of the cost of premature unit replacement in a corrosive environment where standard coatings fail. We are the only HVAC modifier using Phenicon in this application.
 
 ### Custom Enclosures
 
@@ -208,4 +212,6 @@ Not sure of your classification or what you need? Start with our [complete guide
 - [Pressurization Systems](/pressurization-explosion-proof-buildings/) — an alternative that can save 60–80% on large buildings
 - [Class 1, Division 2 Explained](/class-1-division-2/) — the most common classification
 - [Class 1, Division 1 Explained](/class-1-division-1/) — continuously hazardous areas
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for the entire unit
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — N+1, stainless steel, blast-resistant builds
 - [FAQ](/faq/) — quick answers to common questions

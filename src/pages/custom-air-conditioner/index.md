@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Custom Explosion Proof AC | Specialty Builds"
-description: "Custom explosion-proof AC for non-standard installs — N+1 systems, stainless steel, blast-resistant. Independent specialist. (844) 925-5668."
+title: "Custom Explosion Proof AC | Any Brand Modified"
+description: "Custom explosion-proof AC — any brand modified, N+1 redundant systems, stainless steel, blast-resistant. Retrofit and conversion specialist. (844) 925-5668."
 url: "/custom-air-conditioner/"
 breadcrumb:
   - label: 'Products'
@@ -56,11 +56,12 @@ We've built explosion-proof cooling systems for applications that most HVAC comp
 
 We're not limited to a single manufacturer or product line. Our independence as a specialist distributor means we can work with whatever equipment best fits your application:
 
-- Any brand of air conditioner can be modified
+- **Any brand** of air conditioner can be modified or retrofitted — Bard, Trane, Carrier, Lennox, Marvair, Mitsubishi, Daikin, York, or any other manufacturer
 - Class 1 and Class 2 classifications, Divisions 1 and 2
 - Groups B through G (Group A not available)
 - [Pressurization systems](/pressurization-explosion-proof-buildings/) for building-level declassification
-- Coated coils for corrosive or coastal environments
+- [Phenicon coating](/phenicon-coating/) for severe corrosion environments — the entire unit coated with Sherwin-Williams epoxy novolac
+- Standard coated coils for moderate corrosion or coastal environments
 
 If you're not sure what you need, that's exactly the kind of conversation we're built for. Call us and we'll work through it together.
 
@@ -96,6 +97,7 @@ Custom work is quoted individually because the variables matter too much for cat
 - [Explosion Proof Split Systems](/explosion-proof-split-system/) — for higher capacity installs
 - [Pressurization Systems](/pressurization-explosion-proof-buildings/) — declassify your building interior
 - [Military & Government](/military-government/) — DOD and DOE installations with complex requirements
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for the entire unit
 - [About Us](/about-us/) — who we are and why independence matters
 - [FAQ](/faq/) — common questions about explosion-proof air conditioning
 - [Get a Quote](/get-a-quote/) — most quotes in 24–48 hours

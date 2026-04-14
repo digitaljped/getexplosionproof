@@ -66,7 +66,7 @@ Beyond hazardous location classification, mining environments impose additional 
 
 **Vibration** — Processing equipment generates significant vibration that standard equipment mounts don't account for.
 
-**Corrosion** — Mines often involve acidic drainage, sulfurous gases, and high humidity. Coated coils are strongly recommended for most mining applications.
+**Corrosion** — Mines often involve acidic drainage, sulfurous gases, and high humidity. Coated coils are strongly recommended for most mining applications. For the most demanding mining corrosion environments, our [Phenicon coating](/phenicon-coating/) process applies Sherwin-Williams epoxy novolac to the entire unit — not just the coils — providing industrial-grade protection rated for brine immersion and chemical service.
 
 **Remote locations** — Many mining operations are in remote areas with limited HVAC service infrastructure. Equipment reliability is critical — downtime is expensive and service calls are costly. This is another reason to spec equipment right the first time.
 
@@ -111,4 +111,6 @@ Mining applications often require more upfront conversation than refinery work b
 - [Class 2, Division 2 Explained](/class-2-division-2/) — for dust accumulation environments
 - [Class 1, Division 2 Explained](/class-1-division-2/) — for methane or petroleum vapor environments
 - [Oil & Gas Applications](/oil-gas/) — related industry
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for harsh mining environments
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds for non-standard installations
 - [FAQ](/faq/) — common questions about explosion-proof air conditioning

@@ -100,6 +100,18 @@ If you don't have HAC drawings available or aren't sure how to read them, we can
 
 ---
 
+## Corrosion Protection for Chemical Environments
+
+Chemical plant atmospheres can be extremely aggressive to HVAC equipment. For units operating in acid vapor, solvent exposure, or process exhaust environments, we offer [Phenicon coating](/phenicon-coating/) — a Sherwin-Williams epoxy novolac phenolic applied to the entire unit (coils, copper, cabinet) rated for immersion in crude oil, solvents, brines, and hundreds of other chemicals. Standard coated coils are also available for moderately corrosive conditions.
+
+---
+
+## Any Brand Modified to Your Classification
+
+We're an independent modifier — we can explosion-proof any manufacturer's air conditioning equipment to your exact classification. Trane, Carrier, Lennox, Bard, Mitsubishi, or any other brand. If your facility has a preferred vendor or existing equipment that needs hazardous location conversion, we handle the retrofit.
+
+---
+
 ## Quotes and Lead Times
 
 Chemical plant applications vary widely in scope. Simple Class 1, Division 2, Group D installations are straightforward. Group B (hydrogen) installations, Class 2 metal dust applications, or facilities with unusual temperature class requirements require more detailed quoting.
@@ -121,4 +133,6 @@ Chemical plant applications vary widely in scope. Simple Class 1, Division 2, Gr
 - [Class 1, Division 2 Explained](/class-1-division-2/) — for areas with intermittent flammable vapor hazard
 - [Class 2, Division 1 Explained](/class-2-division-1/) — for combustible powder environments
 - [Pharmaceutical Manufacturing](/pharmaceutical/) — related industry with similar classification challenges
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for the entire unit
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds and N+1 redundant systems
 - [FAQ](/faq/) — common questions about explosion-proof air conditioning

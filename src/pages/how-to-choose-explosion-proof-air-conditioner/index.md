@@ -140,6 +140,8 @@ Beyond classification, think about what else your unit will be exposed to:
 
 **Corrosive environments.** H₂S (common in refineries and wastewater), salt air (coastal and offshore), acidic atmospheres, or high-humidity conditions will prematurely degrade standard aluminum coils. Coated coils (Aqua-Aero or equivalent) are strongly recommended for these applications. The coating adds modest cost but prevents premature coil failure in the field — where replacement involves hot work permits, crane lifts, and extended downtime in a classified area.
 
+For the most demanding corrosive environments — offshore platforms, wastewater treatment plants, refineries with H₂S exposure — our [Phenicon coating](/phenicon-coating/) process applies Sherwin-Williams epoxy novolac to the entire unit, not just the coils. This is the highest level of corrosion protection available for HVAC equipment.
+
 **Extreme ambient temperatures.** Units are typically rated at standard conditions (95°F outdoor ambient). In desert climates or near process heat sources where ambient temperatures exceed 110°F, capacity de-rating or oversizing may be needed. In cold climates, low-ambient kits may be required for year-round operation.
 
 **Vibration.** Facilities with heavy rotating machinery or compressors near mounting surfaces may need reinforced mounting provisions. Offshore and marine applications have additional structural requirements.
@@ -189,5 +191,7 @@ Or read our [complete guide to explosion-proof air conditioning](/what-is-an-exp
 - [Explosion Proof Window Air Conditioners](/explosion-proof-window-air-conditioner/) — currently unavailable due to refrigerant standards
 - [Explosion Proof Split Systems](/explosion-proof-split-system/) — for higher capacity installs
 - [Pressurization Systems](/pressurization-explosion-proof-buildings/) — an alternative for large buildings
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for harsh environments
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds, N+1 systems, stainless steel
 - [FAQ](/faq/) — quick answers to common questions
 - [Get a Quote](/get-a-quote/)

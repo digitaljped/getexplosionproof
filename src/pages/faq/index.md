@@ -55,10 +55,25 @@ schema:
         "@type": "Answer"
         "text": "Yes, we have worked with international customers. International orders involve additional complexity around shipping, customs, and documentation. If you're outside the US, give us a call and we'll talk through what's involved for your specific location."
     - "@type": "Question"
+      "name": "What is Phenicon coating and when should I use it?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "Phenicon HS is a Sherwin-Williams epoxy novolac phenolic coating that we apply to the entire air conditioning unit — coils, copper lines, and cabinet inside and out. It was originally developed as an industrial tank liner for crude oil and brine service. We use it on units destined for the most corrosive environments: offshore oil platforms, refineries, wastewater treatment plants, and chemical plants. It is far more protective than standard coil coatings like Heresite or ElectroFin."
+    - "@type": "Question"
       "name": "What is Aqua-Aero coating and do I need it?"
       "acceptedAnswer":
         "@type": "Answer"
-        "text": "Aqua-Aero is a protective HVAC coating that shields coils and components from corrosion, salt air, and chemical exposure. We recommend it for coastal or offshore installations, chemical plant environments with corrosive vapors, and high-humidity industrial settings."
+        "text": "Aqua-Aero is a standard protective HVAC coil coating that shields coils from moderate corrosion, salt air, and chemical exposure. For more severe corrosion environments, we offer Phenicon HS coating which covers the entire unit and is rated for chemical immersion service."
+    - "@type": "Question"
+      "name": "Do I need an explosion proof air conditioner for my facility?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "If your facility has areas classified as hazardous locations under NEC Article 500 or 505 — where flammable gases, vapors, or combustible dusts may be present — any electrical equipment in those areas, including air conditioners, must be rated for the classification. Your facility's hazardous area classification drawing (HAC) will show which areas require explosion-proof equipment."
+    - "@type": "Question"
+      "name": "Can you use a regular air conditioner in a hazardous location?"
+      "acceptedAnswer":
+        "@type": "Answer"
+        "text": "No. Standard air conditioners contain motors, relays, and contactors that produce sparks during normal operation. In a hazardous location with flammable gases or combustible dust, these sparks can cause an explosion. The NEC requires all electrical equipment in classified areas to be rated for the specific hazard present."
     - "@type": "Question"
       "name": "Can you do a redundant or N+1 system?"
       "acceptedAnswer":
@@ -119,7 +134,7 @@ Groups C and D cover the vast majority of petroleum refining and chemical plant 
 
 ## Can you modify any brand of air conditioner?
 
-Yes. While Bard wall-mount units are our most frequently modified units, we can apply explosion-proof fabrication to virtually any brand — Trane, Carrier, Lennox, or a unit already on your site that needs to be brought up to spec. The modification work is the same regardless of the original manufacturer.
+Yes. While Bard wall-mount units are our most frequently modified platform, we can apply explosion-proof modification to virtually any brand of air conditioner — Trane, Carrier, Lennox, Marvair, Mitsubishi, Daikin, Friedrich, York, or any other manufacturer. We're an independent modifier, not a manufacturer, so we're not pushing proprietary equipment. If your facility spec requires a particular brand, or you have an existing unit on site that needs hazardous location conversion, we can retrofit it to your exact classification.
 
 ## How much does an explosion-proof air conditioner cost?
 
@@ -145,14 +160,20 @@ If you don't have access to those documents, give us a call. We've worked with e
 
 Yes, we have worked with international customers. International orders involve additional complexity around shipping, customs, and documentation. If you're outside the US, give us a call and we'll talk through what's involved for your specific location.
 
+## What is Phenicon coating and when should I use it?
+
+[Phenicon HS](/phenicon-coating/) is a Sherwin-Williams epoxy novolac phenolic coating that we apply to the **entire air conditioning unit** — evaporator coils, condenser coils, copper refrigerant lines, and cabinet inside and out. It was originally developed as an industrial tank liner for crude oil and brine service, and we are the only HVAC shop in the country using it.
+
+We use Phenicon on units going to the most corrosive environments: offshore oil platforms, refineries with H₂S exposure, wastewater treatment plants, and chemical processing facilities. It is rated for full chemical immersion — far beyond what any standard HVAC coil coating provides.
+
 ## What is Aqua-Aero coating and do I need it?
 
-Aqua-Aero is a protective HVAC coating that shields coils and components from corrosion, salt air, and chemical exposure. We recommend it for:
-- Coastal or offshore installations
-- Chemical plant environments with corrosive vapors
-- High-humidity industrial settings
+Aqua-Aero is a standard protective HVAC coil coating that shields coils from moderate corrosion, salt air, and chemical exposure. It's appropriate for:
+- Coastal installations (within 5 miles of salt water)
+- Mildly corrosive industrial environments
+- High-humidity settings
 
-It significantly extends the service life of the unit in harsh environments. We'll recommend it if your site conditions warrant it.
+For **severely corrosive environments** — offshore, refinery H₂S, wastewater, chemical plants — we recommend [Phenicon coating](/phenicon-coating/) instead, which covers the entire unit and is rated for chemical immersion service.
 
 ## Can you do a redundant or N+1 system?
 
@@ -180,6 +201,16 @@ A [mini split](/explosion-proof-mini-split/) has an outdoor condenser and an ind
 
 If customers don't mind giving up some interior space, mini splits are a great option. If they don't have any space on the inside, we recommend a Bard wall-mount.
 
+## Do I need an explosion proof air conditioner for my facility?
+
+If your facility has areas classified as hazardous locations under NEC Article 500 or 505 — where flammable gases, vapors, or combustible dusts may be present — any electrical equipment in those areas, including air conditioners, must be rated for the classification. Your facility's hazardous area classification drawing (HAC drawing) will identify which areas require explosion-proof equipment and what Class, Division, and Group applies.
+
+Not sure if your facility is classified? Call us — we can help you figure it out quickly based on what your facility does and what materials are present.
+
+## Can you use a regular air conditioner in a hazardous location?
+
+No. Standard air conditioners contain motors, relays, contactors, and other components that produce sparks during normal operation. In a hazardous location with flammable gases or combustible dust, those sparks can cause an explosion. The National Electrical Code requires all electrical equipment in classified areas to be rated for the specific hazard present. Installing a standard air conditioner in a classified area is both a code violation and a serious safety risk.
+
 ## How do I get started?
 
 Call us or fill out our quote request form. Tell us your classification (Class, Division, Group if known), the BTU or tonnage you need, whether you need inside-only or inside-and-outside explosion proofing, and your general site conditions. We'll take it from there.
@@ -197,5 +228,7 @@ Call us or fill out our quote request form. Tell us your classification (Class, 
 - [Explosion Proof Mini Splits](/explosion-proof-mini-split/) — the most affordable option available today
 - [Explosion Proof Split Systems](/explosion-proof-split-system/) — for higher capacity installs
 - [Pressurization Systems](/pressurization-explosion-proof-buildings/) — declassify your building interior
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for the entire unit
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds, N+1, stainless steel
 - [About Us](/about-us/) — who we are and why independence matters
 - [Get a Quote](/get-a-quote/) — most quotes in 24–48 hours

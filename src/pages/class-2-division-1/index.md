@@ -122,6 +122,14 @@ Class 2, Division 1 modifications are priced based on group, unit size, and scop
 
 ---
 
+## Any Brand Modified for Class 2 Dust Environments
+
+We modify air conditioners from any manufacturer for Class 2, Division 1 dust environments — Bard, Trane, Carrier, Lennox, or others. Whether your application involves metal dust (Group E), carbon and coal dust (Group F), or grain, flour, pharmaceutical, and chemical dust (Group G), we configure the modification to your exact specification.
+
+For dust environments that also involve corrosion — mining operations with acid drainage, pharmaceutical facilities with process chemicals, or coastal grain handling — our [Phenicon coating](/phenicon-coating/) adds industrial-grade corrosion protection to the entire unit.
+
+---
+
 ## Related Pages
 
 - [What Is an Explosion Proof Air Conditioner?](/what-is-an-explosion-proof-air-conditioner/) — complete guide with classifications, pricing, and real installations
@@ -135,4 +143,6 @@ Class 2, Division 1 modifications are priced based on group, unit size, and scop
 - [Mining Applications](/mining/) — coal and metal mining installations
 - [Pharmaceutical Applications](/pharmaceutical/) — API dust environments
 - [How Much Does It Cost?](/explosion-proof-air-conditioner-cost/) — pricing breakdown
+- [Phenicon Coating](/phenicon-coating/) — corrosion protection for harsh dust environments
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds for non-standard installations
 - [FAQ](/faq/)

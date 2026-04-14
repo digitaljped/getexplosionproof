@@ -129,6 +129,14 @@ Class 1, Division 1 modifications are quoted on a project-by-project basis. The 
 
 ---
 
+## Any Brand Modified for Class 1, Division 1
+
+We modify air conditioners from any manufacturer for Class 1, Division 1 service — Bard, Trane, Carrier, Lennox, Mitsubishi, Marvair, or others. As an independent modifier, we're not locked into proprietary equipment. If your facility has a preferred brand, an existing unit that needs Division 1 conversion, or a custom requirement, we handle the modification and retrofit to your exact Group and T-code specification.
+
+For Division 1 installations in corrosive environments, our [Phenicon coating](/phenicon-coating/) provides industrial-grade corrosion protection rated for brine immersion and crude oil service — applied to the entire unit, not just the coils.
+
+---
+
 ## Related Pages
 
 - [What Is an Explosion Proof Air Conditioner?](/what-is-an-explosion-proof-air-conditioner/) — complete guide with classifications, pricing, and real installations
@@ -139,5 +147,7 @@ Class 1, Division 1 modifications are quoted on a project-by-project basis. The 
 - [Explosion Proof Bard Air Conditioners](/explosion-proof-bard-air-conditioner/) — wall-mount units
 - [How Much Does It Cost?](/explosion-proof-air-conditioner-cost/) — pricing breakdown
 - [How to Choose](/how-to-choose-explosion-proof-air-conditioner/) — buyer's guide
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for the entire unit
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds for non-standard installations
 - [FAQ](/faq/)
 - [Get a Quote](/get-a-quote/)

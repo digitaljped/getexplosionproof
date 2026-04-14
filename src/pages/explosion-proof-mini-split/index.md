@@ -144,11 +144,23 @@ If your cooling load is under 3 tons, a mini split is almost always the better v
 
 ---
 
+## Corrosion Protection Options
+
+For mini splits installed in corrosive environments — offshore platforms, wastewater treatment plants, coastal facilities, or chemical plants — we offer [Phenicon coating](/phenicon-coating/), an industrial-grade Sherwin-Williams epoxy novolac applied to the entire unit. Standard coated coils are also available for moderately corrosive environments.
+
+---
+
 ## Request a Quote
 
 Tell us your classification, approximate cooling load, and whether the outdoor unit is in a classified area. We will have a quote back to you within **24–48 hours**.
 
 **Call (844) 925-5668** or [request a quote online](/get-a-quote/).
+
+---
+
+## Any Brand Mini Split — Modified to Your Spec
+
+We modify mini splits from any manufacturer — Mitsubishi, Daikin, Fujitsu, LG, Samsung, Carrier, Lennox, and others. As an independent modifier, we're not locked into a single brand. If your facility has a preferred manufacturer or an existing mini split that needs hazardous location conversion, we can retrofit it to your exact Class, Division, and Group specification.
 
 ---
 
@@ -162,4 +174,6 @@ Tell us your classification, approximate cooling load, and whether the outdoor u
 - [How to Choose an Explosion Proof Air Conditioner](/how-to-choose-explosion-proof-air-conditioner/) — step-by-step buyer's guide
 - [Class 1, Division 2 Explained](/class-1-division-2/) — the most common classification
 - [Pressurization Systems](/pressurization-explosion-proof-buildings/) — an alternative for large buildings
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for the entire unit
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds for non-standard installations
 - [FAQ](/faq/) — common questions about explosion-proof AC

@@ -92,6 +92,18 @@ Pharmaceutical facilities impose requirements beyond hazardous location classifi
 
 ---
 
+## Any Brand, Modified to Your Spec
+
+We're not a manufacturer pushing proprietary equipment. We modify air conditioners from any brand — Bard, Trane, Carrier, Lennox, Mitsubishi, or others — to meet your exact hazardous location classification. If your facility spec requires a particular manufacturer for parts standardization or vendor alignment, we can work with it.
+
+---
+
+## Corrosion and Chemical Protection
+
+For pharmaceutical environments where process chemicals, cleaning agents, or solvent vapors create corrosive conditions, we offer [Phenicon coating](/phenicon-coating/) — a Sherwin-Williams epoxy novolac phenolic applied to the entire unit. This industrial-grade coating resists hundreds of chemicals at immersion temperatures. Standard coated coils are also available.
+
+---
+
 ## Quotes and Lead Times
 
 **Call (844) 925-5668** for a quote. Most pharmaceutical applications are quoted within 24–48 hours once we understand the classification, BTU requirement, and any special construction requirements (stainless, documentation, etc.).
@@ -110,4 +122,6 @@ Pharmaceutical facilities impose requirements beyond hazardous location classifi
 - [Class 1, Division 2 Explained](/class-1-division-2/) — for solvent handling areas
 - [Class 1, Division 1 Explained](/class-1-division-1/) — for continuously hazardous processing areas
 - [Chemical Plant Applications](/chemical-plants/) — related industry with similar classification challenges
+- [Phenicon Coating](/phenicon-coating/) — corrosion protection for chemical and solvent environments
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — stainless steel, GMP, and specialty builds
 - [FAQ](/faq/) — common questions about explosion-proof air conditioning

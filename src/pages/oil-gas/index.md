@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
-title: "Explosion Proof AC for Oil & Gas | Refineries"
-description: "Explosion-proof AC for oil & gas — refineries, pipelines, gas processing. C1D2 Groups C&D. At every major US refinery. (844) 925-5668."
+title: "Explosion Proof AC for Oil & Gas | Refineries & Offshore"
+description: "Explosion-proof air conditioners for oil & gas — refineries, offshore platforms, pipelines, gas processing. C1D2 Groups C&D. Any brand modified. (844) 925-5668."
 url: "/oil-gas/"
 breadcrumb:
   - label: 'Industries'
@@ -79,7 +79,7 @@ We modify air conditioning units — most commonly Bard wall-mount units — to 
 - Coated coils for corrosive or H₂S-containing environments
 - Full documentation package for compliance records
 
-We can modify any brand of air conditioner to your spec. If your facility has a preferred unit or an existing piece of equipment that needs to be brought into compliance, we can work with it.
+We can modify any brand of air conditioner to your spec — Bard, Trane, Carrier, Lennox, Mitsubishi, or any other manufacturer. If your facility has a preferred unit or an existing piece of equipment that needs to be brought into compliance, we can retrofit it to meet your hazardous location classification. We're brand-agnostic because we're an independent modifier, not a manufacturer pushing proprietary equipment.
 
 ---
 
@@ -101,13 +101,18 @@ We can modify any brand of air conditioner to your spec. If your facility has a 
 
 ## Corrosion and Coastal Considerations
 
-Refineries near the Gulf Coast, offshore platforms, and sour gas environments (H₂S-containing) present additional equipment challenges beyond hazardous location classification. We recommend coated coils — using Aqua-Aero or similar protective coatings — for any installation in:
+Refineries near the Gulf Coast, offshore platforms, and sour gas environments (H₂S-containing) present additional equipment challenges beyond hazardous location classification. Standard coil coatings provide some protection, but for the most demanding corrosive environments we offer **[Sherwin-Williams Phenicon HS coating](/phenicon-coating/)** — an industrial-grade epoxy novolac phenolic applied to the entire unit, not just the coils. Phenicon is rated for full brine immersion and crude oil service, far exceeding any standard HVAC coating.
 
-- Marine or coastal environments (within 5 miles of salt water)
-- Environments with H₂S or other corrosive gas exposure
+For installations in moderately corrosive environments, we also offer standard coated coils using Aqua-Aero or similar protective coatings.
+
+**We recommend enhanced corrosion protection for any installation in:**
+
+- Marine or offshore environments (salt spray, brine exposure)
+- Sour gas service (H₂S, sulfur compounds)
+- Coastal refineries (within 5 miles of salt water)
 - High-humidity tropical climates
 
-Coated coils significantly extend equipment service life in these conditions.
+See our [Phenicon coating page](/phenicon-coating/) for full details on the most corrosion resistant HVAC coating available.
 
 ---
 
@@ -134,5 +139,7 @@ Larger units, Division 1, and custom fabrication are quoted individually.
 - [Pressurization Systems](/pressurization-explosion-proof-buildings/) — an alternative for large buildings
 - [Class 1, Division 2 Explained](/class-1-division-2/) — the most common classification in oil & gas
 - [Class 1, Division 1 Explained](/class-1-division-1/) — for continuously hazardous areas
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade epoxy novolac corrosion protection for the entire unit
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — N+1 redundant systems, stainless steel, blast-resistant modules
 - [Chemical Plant Applications](/chemical-plants/) — related industry
 - [FAQ](/faq/) — common questions about explosion-proof air conditioning

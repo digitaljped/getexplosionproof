@@ -77,7 +77,7 @@ You'll know the brand when we put a quote in your hand.
 
 **Technical depth** — We don't just take an order. We help you work through classification questions, unit selection, and system design before anything is quoted. That upfront conversation prevents expensive mistakes.
 
-**Independence** — We recommend what your application needs, not what a corporate parent tells us to sell. That's increasingly rare in this market.
+**Independence** — We recommend what your application needs, not what a corporate parent tells us to sell. As an independent modifier, we work with any brand — Trane, Carrier, Lennox, Bard, Mitsubishi, Marvair — and are not tied to proprietary equipment. You get the right unit for your application, not the one a manufacturer told us to push. That's increasingly rare in this market.
 
 **Documentation** — Government contracts, pharmaceutical validation, refinery compliance audits — we provide the documentation packages these customers require, because we've done it hundreds of times.
 
@@ -103,4 +103,6 @@ Or [request a quote online](/get-a-quote/).
 - [Explosion Proof Bard Air Conditioners](/explosion-proof-bard-air-conditioner/) — our most common product
 - [Explosion Proof Mini Splits](/explosion-proof-mini-split/) — the most affordable option
 - [Pressurization Systems](/pressurization-explosion-proof-buildings/) — declassify your building interior
+- [Phenicon Coating](/phenicon-coating/) — our proprietary industrial-grade coating process
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds for complex projects
 - [FAQ](/faq/) — common questions answered

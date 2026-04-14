@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPage.astro
 title: "Explosion Proof Window AC | Hazardous Locations"
-description: "Explosion-proof window AC from $6,700 — the most affordable Class 1 Div 2 cooling option. Independent modifier. (844) 925-5668."
+description: "Explosion-proof window AC units are currently unavailable due to refrigerant standards. See mini splits and Bard wall-mounts as alternatives. (844) 925-5668."
 url: "/explosion-proof-window-air-conditioner/"
 breadcrumb:
   - label: 'Products'
@@ -144,4 +144,6 @@ We typically return quotes within **24–48 hours** of a conversation where we u
 - [How to Choose an Explosion Proof Air Conditioner](/how-to-choose-explosion-proof-air-conditioner/) — step-by-step buyer's guide
 - [Class 1, Division 2 Explained](/class-1-division-2/) — the most common classification
 - [Pressurization Systems](/pressurization-explosion-proof-buildings/) — an alternative for large buildings
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for any unit type
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds for non-standard installations
 - [FAQ](/faq/) — common questions about explosion-proof AC

@@ -150,6 +150,16 @@ No. Division 2 equipment is not rated for Division 1 use. Division 1 locations r
 
 ---
 
+## Any Brand, Any Group — Modified for Division 2
+
+We modify air conditioners from any manufacturer for Class 1, Division 2 service. Bard is the most common platform, but we also modify Trane, Carrier, Lennox, Mitsubishi, Marvair, Friedrich, and any other brand to meet your Division 2 specification. We're an independent modifier — not a manufacturer — so we work with whatever equipment best fits your application.
+
+Have an existing unit on site that needs to be brought into C1D2 compliance? We can convert it. Need a [custom solution](/custom-air-conditioner/) — redundant systems, stainless steel, or blast-resistant module integration? We build that too.
+
+For Division 2 installations in corrosive environments (refineries, offshore, coastal, wastewater), our [Phenicon coating](/phenicon-coating/) provides corrosion protection far beyond standard coil coatings — applied to the entire unit and rated for chemical immersion service.
+
+---
+
 ## Related Pages
 
 - [What Is an Explosion Proof Air Conditioner?](/what-is-an-explosion-proof-air-conditioner/) — complete guide with classifications, pricing, and real installations
@@ -161,4 +171,6 @@ No. Division 2 equipment is not rated for Division 1 use. Division 1 locations r
 - [Explosion Proof Bard Air Conditioners](/explosion-proof-bard-air-conditioner/) — our most common Class 1, Div 2 product
 - [How Much Does It Cost?](/explosion-proof-air-conditioner-cost/) — full pricing breakdown
 - [How to Choose](/how-to-choose-explosion-proof-air-conditioner/) — step-by-step buyer's guide
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for corrosive environments
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds and redundant systems
 - [FAQ](/faq/)

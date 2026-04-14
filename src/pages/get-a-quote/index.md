@@ -43,6 +43,8 @@ We provide quotes for the full range of explosion-proof cooling solutions:
 
 **Custom and Specialty** — Redundant N+1 systems, stainless steel enclosures, Division 1 specifications, Group B (hydrogen) applications, and non-standard installations are all quoted individually.
 
+**[Phenicon Coating](/phenicon-coating/)** — industrial-grade corrosion protection for any of the above — add-on pricing based on unit size
+
 ---
 
 ## What to Have Ready
@@ -98,6 +100,8 @@ If you're early in the process and not sure what you need, these resources can h
 - [What Is an Explosion Proof Air Conditioner?](/what-is-an-explosion-proof-air-conditioner/) — our complete guide to classifications, modification types, and pricing
 - [How to Choose](/how-to-choose-explosion-proof-air-conditioner/) — step-by-step buyer's guide to picking the right unit
 - [How Much Does It Cost?](/explosion-proof-air-conditioner-cost/) — full pricing breakdown for every unit type
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for corrosive environments
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — N+1, stainless steel, blast-resistant builds
 - [FAQ](/faq/) — answers to the most common questions we get
 
 Or just call us. We've helped enough engineers figure this out that a 10-minute conversation usually gets you to the right answer. That's what we're here for.

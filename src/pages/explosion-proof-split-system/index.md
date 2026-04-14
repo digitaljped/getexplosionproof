@@ -88,6 +88,18 @@ Choose a split system when you need more than 5 tons of cooling, when wall penet
 
 Not sure which direction to go? Call us — we'll help you figure out the right approach for your application.
 
+## Corrosion Protection
+
+For split systems in corrosive service — offshore, refinery, wastewater, coastal — we offer [Phenicon coating](/phenicon-coating/). This Sherwin-Williams epoxy novolac phenolic is applied to the entire system, not just the coils. It's rated for brine immersion and crude oil service. Standard coated coils are also available.
+
+---
+
+## Any Brand, Any Capacity
+
+We modify split systems from any manufacturer — Trane, Carrier, Lennox, Daikin, Mitsubishi, York, or others. We're an independent modifier, not a proprietary equipment manufacturer. If your project spec calls for a specific brand, or you have an existing split system that needs hazardous location retrofit, we can convert it to meet your classification requirements.
+
+---
+
 ## Request a Quote
 
 Tell us your classification requirements, approximate cooling load (BTU or tonnage), and the installation scenario. We'll turn a quote around in **24–48 hours**.
@@ -107,4 +119,6 @@ Tell us your classification requirements, approximate cooling load (BTU or tonna
 - [Pressurization Systems](/pressurization-explosion-proof-buildings/) — an alternative for large buildings
 - [Class 1, Division 1 Explained](/class-1-division-1/) — understand Division 1 requirements
 - [Class 1, Division 2 Explained](/class-1-division-2/) — the most common classification
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for corrosive environments
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — N+1, stainless steel, blast-resistant builds
 - [FAQ](/faq/) — common questions about explosion-proof air conditioning

@@ -103,6 +103,14 @@ Your facility's hazardous area classification drawings should specify the classi
 
 ---
 
+## Any Brand Modified for Class 3
+
+We modify air conditioners from any manufacturer for Class 3 fiber environments — Bard, Trane, Carrier, Lennox, or others. As an independent modifier, we work with whatever equipment fits your application. If you have existing units that need Class 3 conversion, we can retrofit them.
+
+For fiber environments with additional corrosion concerns, our [Phenicon coating](/phenicon-coating/) provides industrial-grade protection for the entire unit.
+
+---
+
 ## Related Pages
 
 - [What Is an Explosion Proof Air Conditioner?](/what-is-an-explosion-proof-air-conditioner/) — complete guide
@@ -114,4 +122,6 @@ Your facility's hazardous area classification drawings should specify the classi
 - [Explosion Proof Bard Air Conditioners](/explosion-proof-bard-air-conditioner/) — wall-mount units
 - [How Much Does It Cost?](/explosion-proof-air-conditioner-cost/) — pricing breakdown
 - [How to Choose](/how-to-choose-explosion-proof-air-conditioner/) — buyer's guide
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — specialty builds
 - [FAQ](/faq/)

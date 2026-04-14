@@ -91,6 +91,14 @@ We work with both direct procurement and through prime contractors. If you're a 
 
 ---
 
+## Any Brand, Any Spec
+
+As an independent modifier, we can explosion-proof air conditioners from any manufacturer to meet your procurement specification. Bard, Trane, Carrier, Lennox, or any other brand — we modify it to your exact Class, Division, and Group. This includes Buy American Act compliant sourcing when required.
+
+For installations in corrosive environments — coastal military bases, naval facilities, ammunition storage near salt water — our [Phenicon coating](/phenicon-coating/) provides industrial-grade corrosion protection rated for brine immersion service.
+
+---
+
 ## Related Pages
 
 - [What Is an Explosion Proof Air Conditioner?](/what-is-an-explosion-proof-air-conditioner/) — complete guide with classifications, pricing, and real installations
@@ -104,4 +112,6 @@ We work with both direct procurement and through prime contractors. If you're a 
 - [Class 1, Division 2 Explained](/class-1-division-2/) — the most common classification
 - [Custom Air Conditioners](/custom-air-conditioner/) — for non-standard installation requirements
 - [Oil & Gas Applications](/oil-gas/) — related industry
+- [Phenicon Coating](/phenicon-coating/) — industrial-grade corrosion protection for coastal and corrosive environments
+- [Custom Explosion Proof Air Conditioners](/custom-air-conditioner/) — N+1 redundant systems, stainless steel, BRM integration
 - [FAQ](/faq/) — common questions about explosion-proof air conditioning
