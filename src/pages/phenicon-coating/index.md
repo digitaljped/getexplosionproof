@@ -100,6 +100,8 @@ The result is a **corrosion resistant air conditioner** that is fully encapsulat
 
 ---
 
+![HVAC coil being prepped for Phenicon coating — copper refrigerant lines and aluminum fins cleaned before epoxy novolac application](/images/site/phenicon-coil-prep.jpg)
+
 ## The Application Process
 
 This is not a quick spray-and-ship operation. Phenicon HS requires the same surface preparation and application discipline as an immersion-grade tank lining job. Here's how we do it:
