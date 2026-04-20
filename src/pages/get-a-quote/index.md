@@ -32,79 +32,66 @@ If you'd rather send us the details in writing, use the form below — we'll res
   <input type="hidden" name="subject" value="New Quote Request from getexplosionproof.com" />
   <input type="hidden" name="from_name" value="getexplosionproof.com Quote Form" />
   <input type="hidden" name="redirect" value="https://getexplosionproof.com/thank-you/" />
-  <input type="checkbox" name="botcheck" class="hidden" style="display:none" />
+  <input type="checkbox" name="botcheck" class="hidden" style="display:none" tabindex="-1" autocomplete="off" />
+
+  <p class="form-intro"><strong>This form is for commercial, industrial, and government buyers.</strong> Individual/residential inquiries cannot be accommodated — our products are specialty industrial HVAC equipment for hazardous location use only.</p>
+
+  <h3 class="form-section-heading">Your Information</h3>
 
   <div class="form-row">
     <div class="form-field">
       <label for="name">Your Name <span class="required">*</span></label>
-      <input type="text" id="name" name="name" required />
+      <input type="text" id="name" name="name" required minlength="2" />
     </div>
     <div class="form-field">
-      <label for="company">Company</label>
-      <input type="text" id="company" name="company" />
-    </div>
-  </div>
-
-  <div class="form-row">
-    <div class="form-field">
-      <label for="email">Email <span class="required">*</span></label>
-      <input type="email" id="email" name="email" required />
-    </div>
-    <div class="form-field">
-      <label for="phone">Phone</label>
-      <input type="tel" id="phone" name="phone" />
+      <label for="company">Company <span class="required">*</span></label>
+      <input type="text" id="company" name="company" required minlength="2" />
     </div>
   </div>
 
   <div class="form-row">
     <div class="form-field">
-      <label for="classification">Hazardous Location Classification</label>
-      <select id="classification" name="classification">
-        <option value="">Not sure yet — help me figure it out</option>
-        <option value="Class 1, Division 1">Class 1, Division 1</option>
-        <option value="Class 1, Division 2">Class 1, Division 2 (most common)</option>
-        <option value="Class 2, Division 1">Class 2, Division 1 (combustible dust)</option>
-        <option value="Class 2, Division 2">Class 2, Division 2 (combustible dust)</option>
-        <option value="Class 3, Division 1">Class 3, Division 1 (fibers)</option>
-        <option value="Class 3, Division 2">Class 3, Division 2 (fibers)</option>
-        <option value="NEC 505 / Zone">NEC 505 / Zone classification</option>
+      <label for="email">Work Email <span class="required">*</span></label>
+      <input type="email" id="email" name="email" required placeholder="you@yourcompany.com" />
+    </div>
+    <div class="form-field">
+      <label for="phone">Direct Phone <span class="required">*</span></label>
+      <input type="tel" id="phone" name="phone" required minlength="10" placeholder="e.g. 555-123-4567" />
+    </div>
+  </div>
+
+  <div class="form-row">
+    <div class="form-field">
+      <label for="role">Your Role <span class="required">*</span></label>
+      <select id="role" name="role" required>
+        <option value="">Select your role</option>
+        <option value="End user / facility owner">End user / facility owner</option>
+        <option value="Engineer / specifier">Engineer / specifier</option>
+        <option value="Contractor / integrator">Contractor / integrator</option>
+        <option value="Procurement / purchasing">Procurement / purchasing</option>
+        <option value="Reseller / distributor">Reseller / distributor</option>
+        <option value="Other">Other</option>
       </select>
     </div>
     <div class="form-field">
-      <label for="group">Group (if known)</label>
-      <select id="group" name="group">
-        <option value="">Select group</option>
-        <option value="A">A — acetylene</option>
-        <option value="B">B — hydrogen</option>
-        <option value="C">C — ethylene, ether</option>
-        <option value="D">D — petroleum, natural gas (most common)</option>
-        <option value="E">E — metal dust</option>
-        <option value="F">F — carbon, coal dust</option>
-        <option value="G">G — grain, flour, plastic dust</option>
+      <label for="timeline">Project Timeline <span class="required">*</span></label>
+      <select id="timeline" name="timeline" required>
+        <option value="">Select timeline</option>
+        <option value="Within 30 days">Within 30 days — urgent</option>
+        <option value="1-3 months">1–3 months</option>
+        <option value="3-6 months">3–6 months</option>
+        <option value="6+ months">6+ months / budget planning</option>
+        <option value="Just researching">Just researching for now</option>
       </select>
     </div>
   </div>
 
-  <div class="form-row">
-    <div class="form-field">
-      <label for="capacity">Cooling Capacity (BTU or tons, if known)</label>
-      <input type="text" id="capacity" name="capacity" placeholder="e.g. 3 tons or 36,000 BTU" />
-    </div>
-    <div class="form-field">
-      <label for="scope">Modification Scope</label>
-      <select id="scope" name="scope">
-        <option value="">Not sure yet</option>
-        <option value="Inside only">Inside (evaporator) only</option>
-        <option value="Full inside + outside">Full inside + outside</option>
-        <option value="Pressurization system">Pressurization system</option>
-      </select>
-    </div>
-  </div>
+  <h3 class="form-section-heading">Project Details</h3>
 
   <div class="form-row">
     <div class="form-field">
-      <label for="industry">Industry / Application</label>
-      <select id="industry" name="industry">
+      <label for="industry">Industry / Application <span class="required">*</span></label>
+      <select id="industry" name="industry" required>
         <option value="">Select industry</option>
         <option value="Oil & Gas">Oil & Gas</option>
         <option value="Chemical Plant">Chemical Plant / Petrochemical</option>
@@ -113,31 +100,53 @@ If you'd rather send us the details in writing, use the form below — we'll res
         <option value="Mining">Mining</option>
         <option value="Pharmaceutical">Pharmaceutical</option>
         <option value="Military / Government">Military / Government</option>
-        <option value="Other">Other</option>
+        <option value="Power Generation">Power Generation</option>
+        <option value="Grain / Agriculture">Grain / Agriculture</option>
+        <option value="Other industrial">Other industrial</option>
       </select>
     </div>
     <div class="form-field">
-      <label for="coating">Corrosion Environment?</label>
-      <select id="coating" name="coating">
-        <option value="">Select if applicable</option>
-        <option value="None">No special corrosion concerns</option>
-        <option value="Coastal / salt air">Coastal / salt air</option>
-        <option value="H2S / sour gas">H₂S / sour gas</option>
-        <option value="Offshore">Offshore platform</option>
-        <option value="Chemical exposure">Chemical / solvent exposure</option>
-        <option value="Interested in Phenicon">Interested in Phenicon coating</option>
+      <label for="units">Number of Units Needed</label>
+      <select id="units" name="units">
+        <option value="">Select quantity</option>
+        <option value="1">1</option>
+        <option value="2-5">2–5</option>
+        <option value="6-10">6–10</option>
+        <option value="11-25">11–25</option>
+        <option value="25+">25+</option>
+        <option value="Not sure">Not sure yet</option>
       </select>
+    </div>
+  </div>
+
+  <div class="form-row">
+    <div class="form-field">
+      <label for="classification">Classification (if known)</label>
+      <select id="classification" name="classification">
+        <option value="">Not sure yet</option>
+        <option value="Class 1, Division 1">Class 1, Division 1</option>
+        <option value="Class 1, Division 2">Class 1, Division 2 (most common)</option>
+        <option value="Class 2, Division 1">Class 2, Division 1 (dust)</option>
+        <option value="Class 2, Division 2">Class 2, Division 2 (dust)</option>
+        <option value="Class 3, Division 1">Class 3, Division 1 (fibers)</option>
+        <option value="NEC 505 / Zone">NEC 505 / Zone</option>
+      </select>
+    </div>
+    <div class="form-field">
+      <label for="capacity">Cooling Capacity (if known)</label>
+      <input type="text" id="capacity" name="capacity" placeholder="e.g. 3 tons or 36,000 BTU" />
     </div>
   </div>
 
   <div class="form-field">
-    <label for="message">Project Details <span class="required">*</span></label>
-    <textarea id="message" name="message" rows="5" required placeholder="Tell us about your project — facility type, timeline, any special requirements, or questions about classification or specification. If you have facility drawings or spec sheets, email them to sales@getexplosionproof.com."></textarea>
+    <label for="message">Project Description <span class="required">*</span></label>
+    <textarea id="message" name="message" rows="6" required minlength="100" placeholder="Tell us about your project. What's the application? What facility type? Any special requirements — corrosion protection, stainless steel, N+1 redundancy, pressurization? Any timing constraints or budget parameters? (100+ characters required)"></textarea>
+    <p class="form-hint">Minimum 100 characters. The more context you provide, the faster we can quote.</p>
   </div>
 
   <button type="submit" class="btn btn-primary btn-lg">Send Quote Request</button>
 
-  <p class="form-note">By submitting, your information will be sent to our sales team at XP Climate Control. We'll respond by email within 24–48 hours for simple quotes.</p>
+  <p class="form-note">We only use your information to respond to this quote request. If you have drawings, spec sheets, or HAC documents, email them to <strong>sales@getexplosionproof.com</strong> after submitting — mentioning your company name so we can match it to this request.</p>
 </form>
 
 ---
