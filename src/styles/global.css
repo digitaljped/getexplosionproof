@@ -272,6 +272,81 @@ blockquote {
 .btn-outline { background: transparent; color: var(--dark); border: 2px solid var(--dark); }
 .btn-outline:hover { background: var(--dark); color: white; }
 
+/* ============================================================
+   Quote Form
+   ============================================================ */
+
+.quote-form {
+  background: var(--bg-light);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 2rem;
+  margin: 1.5rem 0;
+  font-family: var(--font);
+}
+.quote-form .form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+.quote-form .form-field {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+.quote-form label {
+  font-family: var(--font);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--dark);
+  margin-bottom: 0.35rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.quote-form .required { color: #c0392b; }
+.quote-form input[type="text"],
+.quote-form input[type="email"],
+.quote-form input[type="tel"],
+.quote-form select,
+.quote-form textarea {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  padding: 0.7rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: white;
+  color: var(--black);
+  transition: border-color 0.15s, box-shadow 0.15s;
+  width: 100%;
+}
+.quote-form input:focus,
+.quote-form select:focus,
+.quote-form textarea:focus {
+  outline: none;
+  border-color: var(--yellow);
+  box-shadow: 0 0 0 3px rgba(255, 200, 17, 0.2);
+}
+.quote-form textarea { resize: vertical; min-height: 120px; }
+.quote-form button[type="submit"] {
+  margin-top: 0.5rem;
+  width: 100%;
+}
+.quote-form .form-note {
+  font-size: 0.8rem;
+  color: var(--gray);
+  margin-top: 1rem;
+  margin-bottom: 0;
+  font-family: var(--font-body);
+  font-style: italic;
+}
+.quote-form .hidden { display: none !important; }
+
+@media (max-width: 640px) {
+  .quote-form { padding: 1.25rem; }
+  .quote-form .form-row { grid-template-columns: 1fr; gap: 0; }
+}
+
 .cta-bar {
   background: var(--yellow);
   padding: 2.5rem 1.5rem;

@@ -19,13 +19,128 @@ schema:
 
 # Request a Quote
 
-The fastest way to get a quote is a phone call.
+The fastest way to get a quote is a phone call — **(844) 925-5668**, Monday–Friday, business hours Mountain Time. Most simple quotes are returned within **24–48 hours** (engineered quotes can take a week or more).
 
-**Call (844) 925-5668**
-Monday–Friday, business hours Mountain Time.
-Most quotes returned within **24–48 hours**.
+If you'd rather send us the details in writing, use the form below — we'll respond by email.
 
-![Explosion-proof air conditioning units being assembled in fabrication shop](/images/site/fabrication-shop.jpg)
+---
+
+## Quote Request Form
+
+<form action="https://api.web3forms.com/submit" method="POST" class="quote-form">
+  <input type="hidden" name="access_key" value="8cddaa0e-b0d3-4439-b649-e7f6e472c404" />
+  <input type="hidden" name="subject" value="New Quote Request from getexplosionproof.com" />
+  <input type="hidden" name="from_name" value="getexplosionproof.com Quote Form" />
+  <input type="hidden" name="redirect" value="https://getexplosionproof.com/thank-you/" />
+  <input type="checkbox" name="botcheck" class="hidden" style="display:none" />
+
+  <div class="form-row">
+    <div class="form-field">
+      <label for="name">Your Name <span class="required">*</span></label>
+      <input type="text" id="name" name="name" required />
+    </div>
+    <div class="form-field">
+      <label for="company">Company</label>
+      <input type="text" id="company" name="company" />
+    </div>
+  </div>
+
+  <div class="form-row">
+    <div class="form-field">
+      <label for="email">Email <span class="required">*</span></label>
+      <input type="email" id="email" name="email" required />
+    </div>
+    <div class="form-field">
+      <label for="phone">Phone</label>
+      <input type="tel" id="phone" name="phone" />
+    </div>
+  </div>
+
+  <div class="form-row">
+    <div class="form-field">
+      <label for="classification">Hazardous Location Classification</label>
+      <select id="classification" name="classification">
+        <option value="">Not sure yet — help me figure it out</option>
+        <option value="Class 1, Division 1">Class 1, Division 1</option>
+        <option value="Class 1, Division 2">Class 1, Division 2 (most common)</option>
+        <option value="Class 2, Division 1">Class 2, Division 1 (combustible dust)</option>
+        <option value="Class 2, Division 2">Class 2, Division 2 (combustible dust)</option>
+        <option value="Class 3, Division 1">Class 3, Division 1 (fibers)</option>
+        <option value="Class 3, Division 2">Class 3, Division 2 (fibers)</option>
+        <option value="NEC 505 / Zone">NEC 505 / Zone classification</option>
+      </select>
+    </div>
+    <div class="form-field">
+      <label for="group">Group (if known)</label>
+      <select id="group" name="group">
+        <option value="">Select group</option>
+        <option value="A">A — acetylene</option>
+        <option value="B">B — hydrogen</option>
+        <option value="C">C — ethylene, ether</option>
+        <option value="D">D — petroleum, natural gas (most common)</option>
+        <option value="E">E — metal dust</option>
+        <option value="F">F — carbon, coal dust</option>
+        <option value="G">G — grain, flour, plastic dust</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="form-row">
+    <div class="form-field">
+      <label for="capacity">Cooling Capacity (BTU or tons, if known)</label>
+      <input type="text" id="capacity" name="capacity" placeholder="e.g. 3 tons or 36,000 BTU" />
+    </div>
+    <div class="form-field">
+      <label for="scope">Modification Scope</label>
+      <select id="scope" name="scope">
+        <option value="">Not sure yet</option>
+        <option value="Inside only">Inside (evaporator) only</option>
+        <option value="Full inside + outside">Full inside + outside</option>
+        <option value="Pressurization system">Pressurization system</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="form-row">
+    <div class="form-field">
+      <label for="industry">Industry / Application</label>
+      <select id="industry" name="industry">
+        <option value="">Select industry</option>
+        <option value="Oil & Gas">Oil & Gas</option>
+        <option value="Chemical Plant">Chemical Plant / Petrochemical</option>
+        <option value="Offshore">Offshore Platform</option>
+        <option value="Wastewater Treatment">Wastewater Treatment</option>
+        <option value="Mining">Mining</option>
+        <option value="Pharmaceutical">Pharmaceutical</option>
+        <option value="Military / Government">Military / Government</option>
+        <option value="Other">Other</option>
+      </select>
+    </div>
+    <div class="form-field">
+      <label for="coating">Corrosion Environment?</label>
+      <select id="coating" name="coating">
+        <option value="">Select if applicable</option>
+        <option value="None">No special corrosion concerns</option>
+        <option value="Coastal / salt air">Coastal / salt air</option>
+        <option value="H2S / sour gas">H₂S / sour gas</option>
+        <option value="Offshore">Offshore platform</option>
+        <option value="Chemical exposure">Chemical / solvent exposure</option>
+        <option value="Interested in Phenicon">Interested in Phenicon coating</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="form-field">
+    <label for="message">Project Details <span class="required">*</span></label>
+    <textarea id="message" name="message" rows="5" required placeholder="Tell us about your project — facility type, timeline, any special requirements, or questions about classification or specification. If you have facility drawings or spec sheets, email them to sales@getexplosionproof.com."></textarea>
+  </div>
+
+  <button type="submit" class="btn btn-primary btn-lg">Send Quote Request</button>
+
+  <p class="form-note">By submitting, your information will be sent to our sales team at XP Climate Control. We'll respond by email within 24–48 hours for simple quotes.</p>
+</form>
+
+---
 
 ---
 
