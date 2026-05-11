@@ -8,12 +8,16 @@ breadcrumb:
   - label: 'Bard Wall-Mount'
 schema:
   "@context": "https://schema.org"
-  "@type": "Product"
-  "name": "Explosion Proof Bard Wall-Mount Air Conditioner"
+  "@type": "Service"
+  "name": "Explosion Proof Bard Wall-Mount Air Conditioner Modification"
+  "serviceType": "Hazardous Location HVAC Modification"
   "description": "Bard wall-mount air conditioners modified for hazardous location use — Class 1 and Class 2, Division 1 and Division 2, all groups."
-  "brand":
+  "provider":
     "@type": "Organization"
     "name": "getExplosionProof by Super Cool"
+  "areaServed":
+    "@type": "Country"
+    "name": "US"
   "offers":
     "@type": "AggregateOffer"
     "priceCurrency": "USD"

@@ -8,12 +8,16 @@ breadcrumb:
   - label: 'Mini Splits'
 schema:
   "@context": "https://schema.org"
-  "@type": "Product"
-  "name": "Explosion Proof Mini Split Air Conditioner"
+  "@type": "Service"
+  "name": "Explosion Proof Mini Split Air Conditioner Modification"
+  "serviceType": "Hazardous Location HVAC Modification"
   "description": "Mini split air conditioners modified for hazardous location use — affordable, efficient, and available for Class 1 and Class 2 classifications."
-  "brand":
+  "provider":
     "@type": "Organization"
     "name": "getExplosionProof by Super Cool"
+  "areaServed":
+    "@type": "Country"
+    "name": "US"
   "offers":
     "@type": "AggregateOffer"
     "priceCurrency": "USD"

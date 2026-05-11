@@ -8,12 +8,16 @@ breadcrumb:
   - label: 'Split Systems'
 schema:
   "@context": "https://schema.org"
-  "@type": "Product"
-  "name": "Explosion Proof Split System Air Conditioner"
+  "@type": "Service"
+  "name": "Explosion Proof Split System Air Conditioner Modification"
+  "serviceType": "Hazardous Location HVAC Modification"
   "description": "Split system air conditioners with independently rated indoor and outdoor sections for hazardous location use — Class 1 and Class 2, Division 1 and Division 2."
-  "brand":
+  "provider":
     "@type": "Organization"
     "name": "getExplosionProof by Super Cool"
+  "areaServed":
+    "@type": "Country"
+    "name": "US"
   "offers":
     "@type": "AggregateOffer"
     "priceCurrency": "USD"

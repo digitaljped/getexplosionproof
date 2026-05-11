@@ -8,12 +8,16 @@ breadcrumb:
   - label: 'Window Units'
 schema:
   "@context": "https://schema.org"
-  "@type": "Product"
-  "name": "Explosion Proof Window Air Conditioner"
-  "description": "Window and through-wall air conditioners modified for hazardous location use — the most affordable entry point into explosion-proof cooling."
-  "brand":
+  "@type": "Service"
+  "name": "Explosion Proof Window Air Conditioner Modification"
+  "serviceType": "Hazardous Location HVAC Modification"
+  "description": "Window and through-wall air conditioners modified for hazardous location use. Currently unavailable due to refrigerant standards — see mini splits and Bard wall-mounts as alternatives."
+  "provider":
     "@type": "Organization"
     "name": "getExplosionProof by Super Cool"
+  "areaServed":
+    "@type": "Country"
+    "name": "US"
   "offers":
     "@type": "AggregateOffer"
     "priceCurrency": "USD"
